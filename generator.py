@@ -94,13 +94,16 @@ for i in range(128):
         tiers[2][i], tiers[2][j] = tiers[2][j], tiers[2][i]
 
 # Print
+PERMS = ((0, 1, 2), (0, 2, 1), (1, 0, 2), (1, 2, 0), (2, 0, 1), (2, 1, 0))
+def printchar(j, k, i):
+    char = tiers[PERMS[j][k]][i]
+    return char[0] + " - " + char[1].split("]")[0]
 s = "\tBRACKETS:\n\n"
-perms = ((0, 1, 2), (0, 2, 1), (1, 0, 2), (1, 2, 0), (2, 0, 1), (2, 1, 0))
 for i in range(128):
     if i % 16 == 0:
         s += "\n\tBRACKET " + str(i // 16) + ":\n"
     j = randint(0, 5)
-    s += tiers[perms[j][0]][i][0] + "\n\t" + tiers[perms[j][1]][i][0] + "\n\t" + tiers[perms[j][2]][i][0] + "\n"
+    s += printchar(j, 0, i) + "\n\t" + printchar(j, 1, i) + "\n\t" + printchar(j, 2, i) + "\n"
 s += "\n\n"
 with open("brackets.txt", "a") as f:
     f.write(s)

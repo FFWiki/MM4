@@ -116,7 +116,6 @@ Edea [VIII]
 Seifer [VIII]
 Ultimecia [VIII]
 Headmaster Cid [VIII] 128
-Zidane [IX] MMIII
 Garnet [IX]
 Vivi [IX] MMI
 Steiner [IX]
@@ -382,3 +381,4 @@ Zargabaath [XII] NEW
 Bergan [XII] NEW
 Ghis [XII] NEW
 Wandering Minstrel [XIV] NEW
+Cornelia [XI] NEW

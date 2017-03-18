@@ -2,3635 +2,1615 @@
 
 
 	BRACKET 0:
-Kefka
-	Alexander
-	Azul
-Lightning
-	Bhunivelze
-	Cor
-Fusoya
-	Leila
-	Enuo
-Mog
-	Materia
-	Leviathan
-Fang
-	Julius
-	Auron
-Jecht
-	Aphmau
-	Bergan
-Krile
-	Brandelis
-	Cinque
-Mog
-	Vayne
-	Eald'narche
-Weiss
-	Paine
-	Ingus
-Nichol
-	Lulu
-	Agnes
-Haurchefant Greystone
-	Plumed Knight
-	Garland
-John
-	Apollo
-	Rikku
-Ace
-	Squall
-	Shadow Lord
-Venat
-	Yuna
-	Jack
-Iroha
-	Fiona
-	Tonbetty
-Sol
-	Red Mage
-	Jenova
+Barbariccia - IV
+	Queen - T0
+	Nichol - BE
+Deuce - T0
+	Lightning - XIII
+	Gladiolus - XV
+Azul - DC7
+	Iroha - XI
+	Creator - SaGa1
+Mog - Choco
+	Shinryu - DFF
+	Drace - XII
+Serah - XIII
+	Hojo - VII
+	Prishe - XI
+Larsa - XII
+	Ramuh - IX
+	Jecht - X
+Emina - T0
+	Shirma - Choco
+	Agnes - BD
+Ghis - XII
+	Mikoto - IX
+	Red XIII - VII
+Mog - VI
+	Marilith - I
+	Nero - DC7
+Denys - BS
+	Seven - T0
+	Lulu - X
+Aranea - XV
+	Wol - Mobius
+	Aki - TSW
+Zeid - XI
+	Dark King - MQ
+	Galuf - V
+Ricard - II
+	Lenna - V
+	Cloud - VII
+Rude - VII
+	Mewt - TA
+	Yuna - X
+Masked Woman - WoFF
+	Diva - T0
+	Delita - T
+Nacht - D
+	Emperor Mateus - II
+	Umaro - VI
 
 	BRACKET 1:
-Barbariccia
-	Ramuh
-	White Mage
-Yda
-	Blank
-	Ultros
-Kain
-	Delita
-	Shinryu
-Illua
-	Sara Altney
-	Rosa
-Larkeicus
-	Cloud of Darkness
-	Eiko
-Tseng
-	Mira
-	Freya
-Zell
-	Chaos
-	Thancred
-Zeid
-	Leonora
-	Artimecion
-Zargabaath
-	Anne
-	Edge
-Laguna
-	Ashura
-	Ramza
-Asura
-	Tellah
-	Sherlotta
-Fran
-	Trey
-	Odin
-Reddas
-	Ghis
-	Magnolia
-Rinoa
-	Rosso
-	Kytes
-Bergan
-	Filo
-	Libertus
-Yuffie
-	Zargabaath
-	Cecil
+Penelo - XII
+	Marlene - VII
+	Warrior - I
+Blank - IX
+	Kadaj - AC7
+	Gogo - VI
+Ashley - VS
+	Qator - T0
+	Yeul - XIII2
+Xagor - SaGa3
+	Thief - I
+	Shara - TA
+Mog - Mobius
+	Nael - XIV
+	Reuben - MQ
+Sumo - FFA
+	Filo - RW
+	Freya - IX
+Aphmau - XI
+	Angeal - CC7
+	Rain - BE
+Auron - X
+	Cissnei - CC7
+	Fusoya - IV
+Dycedarg - T
+	Jusqua - T4HoL
+	Yew - BS
+Elgo - D
+	Lilisette - XI
+	Laguna - VIII
+Cosmos - DFF
+	Beatrix - IX
+	Bergan - XII
+Nine - T0
+	Tellah - IV
+	Chaos - I
+Sol - D
+	Regis - XV
+	Fina - BE
+Rinoa - VIII
+	Fang - XIII
+	Brandt - T4HoL
+Porom - IV
+	Warrior of Light - DFF
+	Celes - VI
+Edge - IV
+	Ardyn - XV
+	Meliadoul - T
 
 	BRACKET 2:
-Bergan
-	Guildenstern
-	Arc
-Fuhito
-	Barret
-	Cid Haze
-Yew
-	TG Orlandeau
-	Mewt
-Airy
-	Thief
-	Seven
-Denys
-	Ringabel
-	Strago
-Umaro
-	Tifa
-	Qun'mi
-Rosencrantz
-	Segwarides
-	Cissnei
-Callo
-	Diana
-	Linaly
-Shelke
-	Rem
-	Sydney
-Shadow
-	Kurasame
-	Tama
-Xagor
-	Biggs and Wedge
-	Layle
-Leblanc
-	Reynn
-	Isis
-Sumo
-	Deuce
-	Prishe
-Faris
-	Cid
-	Warrior
-Volg
-	Legendary Turk
-	Leo
-Chocobo
-	Frimelda
-	Prompto
+Adventurer - T4HoL
+	Relm - VI
+	Beowulf - T
+Barret - VII
+	Brandelis - WoFF
+	Meia - Mobius
+Libertus - Kg15
+	Arecia - T0
+	Zargabaath - XII
+Callo - VS
+	Gaius - XIV
+	Gau - VI
+Leonora - TAY
+	Marshal Cid - T0
+	Cid Pollendina - IV
+Onion Knight - DFF
+	Kytes - RW
+	Tifa - VII
+Thancred - XIV
+	Darklord Craydall - MLaaK
+	Basch - XII
+Ignis - XV
+	Drace - XII
+	Garland - I
+Cornelia - XI
+	Eiko - IX
+	Paine - X2
+Cid Raines - XIII
+	Shadow - VI
+	Gilgamesh - V
+Eald'narche - XI
+	Asura - IV
+	Aria - III
+Ultima - T
+	Luneth - III
+	Zargabaath - XII
+Lumina - LR
+	Rosa - IV
+	Edea - BD
+Faris - V
+	Sherlotta - EoT
+	Alma - T
+Leila - II
+	Benjamin - MQ
+	Tiz - BD
+Rosencrantz - VS
+	Montblanc - TA
+	Maria - II
 
 	BRACKET 3:
-Ifrit
-	Adelle
-	Quistis
-Ovelia
-	Refia
-	Tiz
-Luso
-	Gau
-	Larsa
-Cid Randell
-	Luneth
-	Mog
-Marche
-	Steiner
-	Selphie
-Minwu
-	Cu Chaspel
-	Exdeath
-Dycedarg
-	Fina
-	Celes
-Agrias
-	Rubicante
-	Onion Knight
-Terra
-	Emina
-	Meia
-Firion
-	Morrow
-	Hope
-Lazard
-	Wol
-	Wrieg
-Luche
-	Zack
-	Dark King
-Tristam
-	Queen
-	Nero
-Black Mage
-	Ysayle Dangoulain
-	Dark Lord
-Garland
-	Benjamin
-	Bahamut
-Nimbus
-	Masked Woman
-	Rude
+John - VS
+	Cyan - VI
+	Desch - III
+Refia - III
+	Cecil - IV
+	Cid Randell - TA
+Sydney - VS
+	Cinque - T0
+	Bergan - XII
+Tonbetty - MLaaD
+	Croma - Choco
+	Jake - BE
+Yuri - RoF
+	Adelle - TA2
+	Cor - XV
+Good King Moggle Mog - XIV
+	Minwu - II
+	Rufus - VII
+Marche - TA
+	Snow - XIII
+	Wandering Minstrel - XIV
+Vincent - VII
+	Agrias - T
+	Chaos - Mobius
+Volg - Choco
+	Arc - III
+	Garland - Mobius
+Kimahri - X
+	Rosso - DC7
+	Firion - II
+Airy - BD
+	Echo - Mobius
+	Apollo - SaGa2
+Lann - WoFF
+	Shantotto - XI
+	Aymeric de Borel - XIV
+Belle - TCB
+	Kain - IV
+	Nimbus - T0
+Guildenstern - VS
+	Black Mage - I
+	Tiz - T0
+Jegran - TCB
+	Raem - CC
+	Josef - II
+Fiona - CC
+	Prompto - XV
+	Exdeath - V
 
 	BRACKET 4:
-Headmaster Cid
-	Belle
-	Desch
-Lasswell
-	Raem
-	Marshal Cid
-Cater
-	Cid nan Garlond
-	Adventurer
-Yunita
-	Leon
-	Ashe
-Aemo
-	Jegran
-	Cindy
-Elgo
-	Sakura
-	Ultima
-Rain
-	Typhon
-	Palom
-Kaze
-	Nacht
-	Luna
-Miyu Kagerohi
-	Lid
-	Edea
-Celestia
-	Sice
-	Llyud
-Tiz
-	Relm
-	Aeris
-Joker
-	Crowe
-	Bartz
-Gladiolus
-	Locke
-	Arecia
-Red XIII
-	Tonberry
-	Dysley
-Caetuna
-	King
-	Gabranth
-Edward
-	Nine
-	Veritas
+Yunita - T4HoL
+	Chocolina - XIII2
+	Nyx - Kg15
+Wrieg - L2
+	Layle - TCB
+	Ra Devil - LotC
+Veritas - BE
+	Alphinaud - XIV
+	Gabranth - XII
+Segwarides - WoFF
+	Bergan - XII
+	Sakura - BE
+Spiritus - DFF
+	Squall - VIII
+	Lid - BE
+Plumed Knight - WoFF
+	Tonogiri - T0
+	Eight - T0
+Joker - T0
+	Zemus - IV
+	Genesis - CC7
+Seymour - X
+	Kurasame - T0
+	Hurdy - TA2
+Edgar - VI
+	Princess Sarah - I
+	Qun'mi - T0
+Crowe - Kg15
+	Tonberry - T0
+	Cid - IX
+Caetuna - T0
+	Ashura - SaGa1
+	Machina - T0
+Ursula - TAY
+	King - T0
+	Miyu Kagerohi - Agito
+Y'shtola - XIV
+	Julius - FFA
+	Sice - T0
+Amarant - IX
+	Dr. Cid - XII
+	Cater - T0
+Ashe - XII
+	Trey - T0
+	Lion - XI
+Dusk - D
+	Galdes - RoF
+	Tristam - MQ
 
 	BRACKET 5:
-Porom
-	Hojo
-	Hein
-Ignis
-	Dusk
-	Hraesvelgr
-Marilith
-	Ardyn
-	Meliadoul
-Fuji
-	Vossler
-	Glauca
-Cyan
-	Nyx
-	Eight
-Wakka
-	Aire
-	Aranea
-Galuf
-	Reuben
-	Iris
-Ghis
-	Quickthinx Allthoughts
-	Darklord Craydall
-Noctis
-	Monk
-	Aymeric de Borel
-Gaius
-	Rydia
-	Beowulf
-Ciaran
-	Nael
-	Dr. Cid
-Good King Moggle Mog
-	Emperor Mateus
-	Rygdea
-Jusqua
-	Alphinaud
-	Cosmos
-Minfilia
-	Sarah
-	Marcus
-Papalymo
-	Marlene
-	Cid Pollendina
-Aki
-	Montblanc
-	Lumina
+Artimecion - IX
+	Minfilia - XIV
+	Luche - Kg15
+Noctis - XV
+	Rydia - IV
+	Glauca - Kg15
+Iris - XV
+	Headmaster Cid - VIII
+	Frimelda - TA2
+Magnolia - BS
+	Luna - XV
+	Cid Highwind - VII
+Sazh - XIII
+	TG Orlandeau - T
+	Quickthinx Allthoughts - XIV
+Anne - BS
+	Ghis - XII
+	Ysayle Dangoulain - XIV
+Hraesvelgr - XIV
+	Isis - SaGa2
+	Zell - VIII
+Yda - XIV
+	Cait Sith - VII
+	Chocobo - Choco
+Cid nan Garlond - XIV
+	Mira - MLaaD
+	Ifrit - V
+Tseng - VII
+	Papalymo - XIV
+	Haurchefant Greystone - XIV
+Bhunivelze - LR
+	Garland - IX
+	Morrow - L2
+Hein - TSW
+	Rem - T0
+	Caius - XIII2
+Rikku - X
+	Noel - XIII2
+	Typhon - VI
+Biggs and Wedge - VI
+	Rygdea - XIII
+	Quistis - VIII
+Kefka - VI
+	Jack - T0
+	Dysley - XIII
+Edea - VIII
+	Steiner - IX
+	Yaag - XIII
 
 	BRACKET 6:
-Cid Sophiar
-	Chocolina
-	Rufus
-Kadaj
-	Yeul
-	Angeal
-Noel
-	Bergan
-	Ashley
-King Leo
-	Serah
-	Shirma
-Vanille
-	Regis
-	Yuri
-Basch
-	Shara
-	Tidus
-Caius
-	Balthier
-	Ricard
-Drace
-	Croma
-	Vaan
-Machina
-	Echo
-	Lilisette
-Princess Sarah
-	Seymour
-	Lann
-Lion
-	Jake
-	Beatrix
-Ultimecia
-	Amarant
-	Kimahri
-Drace
-	Quina
-	Maria
-Sephiroth
-	Seifer
-	Spiritus
-Jihl
-	Reno
-	Edea
-Cait Sith
-	Kuja
-	Irvine
+Reno - VII
+	Luso - TA2
+	Jihl - XIII
+Vanille - XIII
+	Fran - XII
+	Legendary Turk - BC7
+Kuja - IX
+	Llyud - RW
+	Red Mage - I
+Krile - V
+	Reddas - XII
+	Odin - IV
+Bartz - V
+	Balthier - XII
+	Arthur - SaGa3
+Shadow Lord - XI
+	Diana - D
+	Vaan - XII
+Leblanc - X2
+	Kaze - FFU
+	Lazard - CC7
+Bergan - XII
+	Garnet - IX
+	Wakka - X
+Ovelia - T
+	Sephiroth - VII
+	Tidus - X
+Ringabel - BD
+	Quina - IX
+	Sabin - VI
+Alexander - XIV
+	Vivi - IX
+	The Deathlord - L2
+Cid Sophiar - XV
+	Sarah - Mobius
+	Ultimecia - VIII
+Hope - XIII
+	Aire - T4HoL
+	Irvine - VIII
+Zack - VII
+	Shelke - DC7
+	Al-Cid - XII
+Cu Chaspel - RoF
+	Fuhito - BC7
+	Selphie - VIII
+Elfe - BC7
+	Weiss - DC7
+	Reynn - WoFF
 
 	BRACKET 7:
-Hurdy
-	Elfe
-	Creator
-Vivi
-	Genesis
-	Lenna
-Alma
-	Galdes
-	Jessie
-Arthur
-	Vincent
-	Snow
-Wandering Minstrel
-	Garnet
-	Gestahl
-Setzer
-	Brandt
-	Y'shtola
-Sabin
-	Gilgamesh
-	Shantotto
-Yaag
-	Cloud
-	Edgar
-Diva
-	Ra Devil
-	Gogo
-Penelo
-	Ceodore
-	Al-Cid
-Mikoto
-	Zemus
-	Qator
-Ursula
-	The Deathlord
-	Golbez
-Zidane
-	Yang
-	Garland
-Aria
-	Sazh
-	Warrior of Light
-Josef
-	Tonogiri
-	Chaos
-Cid Highwind
-	Guy
-	Cid Raines
+Jessie - VII
+	Leviathan - IV
+	Vayne - XII
+Gestahl - VI
+	Cloud of Darkness - III
+	Cindy - XV
+Setzer - VI
+	Ramza - T
+	Leo - VI
+Locke - VI
+	Bahamut - I
+	Venat - XII
+Terra - VI
+	Aemo - L2
+	Ace - T0
+Linaly - LotC
+	King Leo - MLaaK
+	Ultros - VI
+Dark Lord - FFA
+	Ceodore - TAY
+	Rubicante - IV
+Golbez - IV
+	Vossler - XII
+	Materia - DFF
+Ciaran - CC
+	Palom - IV
+	Yuffie - VII
+Larkeicus - EoT
+	Marcus - IX
+	Edward - IV
+Yang - IV
+	Jenova - VII
+	Sara Altney - III
+Fuji - FFA
+	Cid Haze - III
+	Ingus - III
+Guy - II
+	Enuo - V
+	Seifer - VIII
+Lasswell - BE
+	Leon - II
+	Aeris - VII
+Illua - TA2
+	Strago - VI
+	Monk - I
+Celestia - T0
+	Tama - WoFF
+	White Mage - I
 
 
 	BRACKETS:
 
 
 	BRACKET 0:
-Warrior
-	Brandt
-	Cissnei
-Leblanc
-	Balthier
-	Lightning
-Aire
-	Rikku
-	Penelo
-Gabranth
-	Alexander
-	Leviathan
-Rydia
-	Cid Pollendina
-	Mog
-Zack
-	Jecht
-	Lenna
-Auron
-	Marlene
-	Relm
-Fang
-	Ardyn
-	Guy
-Cor
-	Larsa
-	Magnolia
-Alphinaud
-	Noel
-	Lulu
-Ultimecia
-	Reynn
-	Chocobo
-Leon
-	Paine
-	Mog
-Artimecion
-	Red XIII
-	Layle
-Libertus
-	Dr. Cid
-	Yuna
-Y'shtola
-	Ringabel
-	Reno
-Mog
-	Jusqua
-	Masked Woman
+Ramuh - IX
+	Sephiroth - VII
+	Terra - VI
+Aeris - VII
+	Lightning - XIII
+	Shirma - Choco
+Venat - XII
+	Angeal - CC7
+	Weiss - DC7
+Nyx - Kg15
+	Deuce - T0
+	Emperor Mateus - II
+Palom - IV
+	Fang - XIII
+	Leon - II
+Ra Devil - LotC
+	Bergan - XII
+	Jecht - X
+Snow - XIII
+	Elfe - BC7
+	Veritas - BE
+Leonora - TAY
+	Vayne - XII
+	Joker - T0
+Reno - VII
+	Paine - X2
+	Bergan - XII
+Beatrix - IX
+	Lulu - X
+	Gogo - VI
+Enuo - V
+	Edea - BD
+	Meia - Mobius
+John - VS
+	Kuja - IX
+	Rikku - X
+Shelke - DC7
+	Quistis - VIII
+	Mog - Choco
+Yuna - X
+	Warrior of Light - DFF
+	Aphmau - XI
+Gilgamesh - V
+	Crowe - Kg15
+	Cu Chaspel - RoF
+Luche - Kg15
+	Apollo - SaGa2
+	Squall - VIII
 
 	BRACKET 1:
-Typhon
-	Exdeath
-	Kain
-Vayne
-	Blank
-	Cait Sith
-Onion Knight
-	Delita
-	Nine
-Cinque
-	Galuf
-	Ace
-Arc
-	Aphmau
-	Wol
-Freya
-	Lilisette
-	Angeal
-Fina
-	Guildenstern
-	Legendary Turk
-Emperor Mateus
-	Machina
-	Cosmos
-Sol
-	Eiko
-	Diva
-Leonora
-	Amarant
-	Laguna
-Segwarides
-	Chaos
-	Eald'narche
-Adventurer
-	Krile
-	Zell
-Garland
-	Ramza
-	Ramuh
-Darklord Craydall
-	Rinoa
-	Mewt
-Venat
-	Aeris
-	Belle
-Drace
-	King
-	Tonberry
+Marche - TA
+	Croma - Choco
+	Exdeath - V
+Blank - IX
+	Chaos - I
+	TG Orlandeau - T
+Glauca - Kg15
+	Delita - T
+	Fina - BE
+Edgar - VI
+	Y'shtola - XIV
+	Galuf - V
+Eald'narche - XI
+	Penelo - XII
+	Bartz - V
+Fuji - FFA
+	Freya - IX
+	Ovelia - T
+Yda - XIV
+	Ashura - SaGa1
+	Tonbetty - MLaaD
+Auron - X
+	Azul - DC7
+	Barbariccia - IV
+Edward - IV
+	Garland - I
+	Rosa - IV
+Sice - T0
+	Laguna - VIII
+	Fran - XII
+Odin - IV
+	Plumed Knight - WoFF
+	Prompto - XV
+Airy - BD
+	Arc - III
+	Dr. Cid - XII
+Fusoya - IV
+	Warrior - I
+	Sakura - BE
+Xagor - SaGa3
+	Rufus - VII
+	Rinoa - VIII
+Regis - XV
+	Ringabel - BD
+	Bahamut - I
+Shinryu - DFF
+	Ghis - XII
+	Good King Moggle Mog - XIV
 
 	BRACKET 2:
-Sherlotta
-	Odin
-	Adelle
-Gau
-	Barret
-	Vincent
-Biggs and Wedge
-	Materia
-	Ghis
-Kadaj
-	Yeul
-	Bergan
-Thancred
-	Anne
-	Nero
-Tifa
-	Luche
-	Leila
-Quina
-	Yew
-	Aria
-Jihl
-	Cu Chaspel
-	Edea
-Lumina
-	Ashley
-	Luneth
-Squall
-	Sephiroth
-	Shadow
-Isis
-	Hojo
-	Vaan
-Cid Raines
-	Cyan
-	Apollo
-Irvine
-	Creator
-	Lazard
-Faris
-	Headmaster Cid
-	Callo
-Rosa
-	Frimelda
-	Dark Lord
-Zargabaath
-	Ovelia
-	Sumo
+Zack - VII
+	Gladiolus - XV
+	Anne - BS
+Cyan - VI
+	Barret - VII
+	Mira - MLaaD
+Magnolia - BS
+	Leila - II
+	Darklord Craydall - MLaaK
+Agnes - BD
+	Eight - T0
+	Caetuna - T0
+Jegran - TCB
+	Tseng - VII
+	Guildenstern - VS
+Tifa - VII
+	Ricard - II
+	Edea - VIII
+Cornelia - XI
+	Thancred - XIV
+	Arthur - SaGa3
+Seymour - X
+	Creator - SaGa1
+	Ciaran - CC
+Frimelda - TA2
+	Volg - Choco
+	Zell - VIII
+Diva - T0
+	Shadow - VI
+	Leo - VI
+Illua - TA2
+	Ultros - VI
+	Layle - TCB
+Adelle - TA2
+	Spiritus - DFF
+	Chocobo - Choco
+Shara - TA
+	Sherlotta - EoT
+	Serah - XIII
+Larsa - XII
+	Faris - V
+	Ultima - T
+Sydney - VS
+	Ramza - T
+	Cid Randell - TA
+Hojo - VII
+	Beowulf - T
+	Cosmos - DFF
 
 	BRACKET 3:
-Shara
-	Miyu Kagerohi
-	Lid
-Tiz
-	Cid
-	Refia
-Diana
-	Ultima
-	Warrior of Light
-Regis
-	Dycedarg
-	Bahamut
-Fran
-	Illua
-	Garland
-Montblanc
-	Minwu
-	White Mage
-Dark King
-	Wandering Minstrel
-	Cloud
-Reuben
-	Cloud of Darkness
-	Josef
-Benjamin
-	Kytes
-	Seven
-Zargabaath
-	Marche
-	Firion
-Shirma
-	Gladiolus
-	Brandelis
-Wrieg
-	Lann
-	Ifrit
-Emina
-	Denys
-	Fiona
-Larkeicus
-	Black Mage
-	Rude
-Julius
-	Ciaran
-	Shantotto
-Yuffie
-	Yunita
-	Cindy
+Belle - TCB
+	Raem - CC
+	Agrias - T
+Nero - DC7
+	Asura - IV
+	Refia - III
+Hraesvelgr - XIV
+	Yuffie - VII
+	Mog - Mobius
+Jenova - VII
+	Fuhito - BC7
+	Reuben - MQ
+Benjamin - MQ
+	Relm - VI
+	Bergan - XII
+Aria - III
+	Diana - D
+	Minwu - II
+Masked Woman - WoFF
+	Alma - T
+	Chaos - Mobius
+Ghis - XII
+	Meliadoul - T
+	Segwarides - WoFF
+Tama - WoFF
+	Hein - TSW
+	Brandt - T4HoL
+Firion - II
+	Tiz - T0
+	Josef - II
+Ifrit - V
+	Cindy - XV
+	Reynn - WoFF
+Wrieg - L2
+	Luso - TA2
+	Yeul - XIII2
+Kytes - RW
+	Morrow - L2
+	Rude - VII
+Galdes - RoF
+	Black Mage - I
+	Vossler - XII
+Legendary Turk - BC7
+	Nichol - BE
+	King - T0
+Tonogiri - T0
+	Mewt - TA
+	Lion - XI
 
 	BRACKET 4:
-Terra
-	Tristam
-	The Deathlord
-Garland
-	Morrow
-	TG Orlandeau
-Veritas
-	Shadow Lord
-	Sara Altney
-Meliadoul
-	Sakura
-	Iris
-Genesis
-	Asura
-	Nichol
-Drace
-	Rain
-	Lion
-Raem
-	Celestia
-	Sarah
-Tiz
-	Meia
-	Hraesvelgr
-Jake
-	Hope
-	Joker
-Mira
-	Volg
-	Qator
-Nimbus
-	Barbariccia
-	Quickthinx Allthoughts
-Qun'mi
-	Edge
-	Ra Devil
-Rem
-	Enuo
-	Tonogiri
-Cid Highwind
-	Elfe
-	Eight
-Ghis
-	Aki
-	Sice
-Agnes
-	Ignis
-	Cater
+Arecia - T0
+	Elgo - D
+	Umaro - VI
+Aki - TSW
+	Emina - T0
+	Cloud - VII
+Irvine - VIII
+	Echo - Mobius
+	Kurasame - T0
+Yuri - RoF
+	Red Mage - I
+	Qator - T0
+Sol - D
+	Nimbus - T0
+	Jusqua - T4HoL
+Tonberry - T0
+	Vincent - VII
+	Cloud of Darkness - III
+Red XIII - VII
+	Machina - T0
+	Celestia - T0
+Selphie - VIII
+	Queen - T0
+	Marshal Cid - T0
+Seven - T0
+	Ultimecia - VIII
+	Marlene - VII
+Cater - T0
+	Adventurer - T4HoL
+	Cecil - IV
+Celes - VI
+	Cid Sophiar - XV
+	Miyu Kagerohi - Agito
+Lenna - V
+	Aymeric de Borel - XIV
+	Aranea - XV
+Luneth - III
+	Cor - XV
+	Nael - XIV
+Iris - XV
+	Drace - XII
+	Isis - SaGa2
+Sarah - Mobius
+	Shantotto - XI
+	Ignis - XV
+Callo - VS
+	Quickthinx Allthoughts - XIV
+	Luna - XV
 
 	BRACKET 5:
-Lasswell
-	Deuce
-	Vanille
-Dysley
-	Hein
-	Croma
-Trey
-	Elgo
-	Tseng
-Glauca
-	Ingus
-	Sazh
-King Leo
-	Filo
-	Aranea
-Tellah
-	Luna
-	Nacht
-Mikoto
-	Beowulf
-	Gaius
-Beatrix
-	Ultros
-	Nael
-Yuri
-	Good King Moggle Mog
-	Bergan
-Cid Sophiar
-	Yda
-	Arecia
-Minfilia
-	Rufus
-	Bergan
-Cid Randell
-	Marilith
-	Cid nan Garlond
-Aymeric de Borel
-	Bhunivelze
-	Arthur
-Caius
-	Rosso
-	Rubicante
-Airy
-	Dusk
-	Rygdea
-Snow
-	Alma
-	Galdes
+Gau - VI
+	Ardyn - XV
+	Haurchefant Greystone - XIV
+Marcus - IX
+	Sazh - XIII
+	Gaius - XIV
+Onion Knight - DFF
+	Alphinaud - XIV
+	Lasswell - BE
+Cid nan Garlond - XIV
+	Mikoto - IX
+	King Leo - MLaaK
+Bhunivelze - LR
+	Prishe - XI
+	Golbez - IV
+Lumina - LR
+	Headmaster Cid - VIII
+	Noctis - XV
+Rubicante - IV
+	Nine - T0
+	Chocolina - XIII2
+Yunita - T4HoL
+	Fiona - CC
+	Caius - XIII2
+Denys - BS
+	Dycedarg - T
+	Rygdea - XIII
+Larkeicus - EoT
+	Brandelis - WoFF
+	Dysley - XIII
+Julius - FFA
+	Shadow Lord - XI
+	Yaag - XIII
+Vanille - XIII
+	Hope - XIII
+	Tiz - BD
+Leviathan - IV
+	Llyud - RW
+	Materia - DFF
+Filo - RW
+	Bergan - XII
+	Aire - T4HoL
+Aemo - L2
+	Linaly - LotC
+	Al-Cid - XII
+Drace - XII
+	Ace - T0
+	Reddas - XII
 
 	BRACKET 6:
-Ashura
-	Quistis
-	Llyud
-Aemo
-	Bartz
-	Al-Cid
-Umaro
-	Vossler
-	Reddas
-Marcus
-	Ashe
-	Maria
-Iroha
-	Shinryu
-	Vivi
-Prishe
-	Luso
-	Papalymo
-Seymour
-	Porom
-	John
-Edea
-	Kimahri
-	Cid Haze
-Tonbetty
-	Fusoya
-	Tidus
-Garnet
-	Selphie
-	Nyx
-Tama
-	Seifer
-	Prompto
-Kurasame
-	Shelke
-	Serah
-Plumed Knight
-	Caetuna
-	Kefka
-Azul
-	Haurchefant Greystone
-	Leo
-Agrias
-	Crowe
-	Setzer
-Gogo
-	Echo
-	Strago
+Vaan - XII
+	Basch - XII
+	Noel - XIII2
+Ashe - XII
+	Alexander - XIV
+	Zemus - IV
+Kimahri - X
+	Balthier - XII
+	Kadaj - AC7
+Kaze - FFU
+	Dusk - D
+	Lilisette - XI
+Cid Haze - III
+	Ursula - TAY
+	Zeid - XI
+Lazard - CC7
+	Jake - BE
+	Leblanc - X2
+Wandering Minstrel - XIV
+	Tidus - X
+	Marilith - I
+Amarant - IX
+	Hurdy - TA2
+	Lid - BE
+Zargabaath - XII
+	Quina - IX
+	Garland - Mobius
+Steiner - IX
+	Rydia - IV
+	Kain - IV
+Vivi - IX
+	Rain - BE
+	Wakka - X
+Seifer - VIII
+	Jihl - XIII
+	Yew - BS
+Ashley - VS
+	Montblanc - TA
+	Genesis - CC7
+Jessie - VII
+	Cid Raines - XIII
+	Biggs and Wedge - VI
+Cait Sith - VII
+	Iroha - XI
+	Libertus - Kg15
+Lann - WoFF
+	Gestahl - VI
+	Jack - T0
 
 	BRACKET 7:
-Sabin
-	Yaag
-	Ysayle Dangoulain
-Kuja
-	Queen
-	Edgar
-Celes
-	Spiritus
-	Steiner
-Locke
-	Jenova
-	Hurdy
-Fuhito
-	Ursula
-	Linaly
-Yang
-	Gilgamesh
-	Gestahl
-Zemus
-	Bergan
-	Zeid
-Zidane
-	Golbez
-	Fuji
-Ceodore
-	Palom
-	Sydney
-Noctis
-	Edward
-	Red Mage
-Marshal Cid
-	Cecil
-	Jack
-Basch
-	Weiss
-	Desch
-Wakka
-	Kaze
-	Ricard
-Xagor
-	Princess Sarah
-	Jegran
-Monk
-	Jessie
-	Chaos
-Chocolina
-	Rosencrantz
-	Thief
+Kefka - VI
+	Porom - IV
+	Papalymo - XIV
+Setzer - VI
+	Garland - IX
+	Tristam - MQ
+Typhon - VI
+	Dark King - MQ
+	Strago - VI
+Sabin - VI
+	Maria - II
+	Artimecion - IX
+Rosencrantz - VS
+	Cid Highwind - VII
+	Ceodore - TAY
+Cid Pollendina - IV
+	Cinque - T0
+	Mog - VI
+Tellah - IV
+	Rosso - DC7
+	Krile - V
+Trey - T0
+	Edge - IV
+	Eiko - IX
+Yang - IV
+	Wol - Mobius
+	Garnet - IX
+Rem - T0
+	Nacht - D
+	Desch - III
+Ysayle Dangoulain - XIV
+	The Deathlord - L2
+	Ingus - III
+Dark Lord - FFA
+	Guy - II
+	Gabranth - XII
+Sumo - FFA
+	Princess Sarah - I
+	Locke - VI
+Monk - I
+	Cid - IX
+	Minfilia - XIV
+Sara Altney - III
+	Thief - I
+	Zargabaath - XII
+White Mage - I
+	Qun'mi - T0
+	Cissnei - CC7
 
 
 	BRACKETS:
 
 
 	BRACKET 0:
-Sol
-	Regis
-	Jenova
-Lightning
-	Reynn
-	Rem
-Ramza
-	Drace
-	Dycedarg
-Celestia
-	Fang
-	Leon
-Lann
-	Larsa
-	Isis
-Azul
-	Jecht
-	Cid
-Joker
-	Seven
-	Shadow Lord
-Yda
-	Kuja
-	Quistis
-Squall
-	Maria
-	Y'shtola
-Cosmos
-	Lulu
-	Machina
-Cor
-	Alma
-	Cid Haze
-Biggs and Wedge
-	Zack
-	Alexander
-Jegran
-	Hojo
-	Lilisette
-Lid
-	Yuna
-	Creator
-Selphie
-	Morrow
-	Adelle
-Guildenstern
-	Galuf
-	Desch
+Cosmos - DFF
+	Fuhito - BC7
+	Warrior - I
+Lightning - XIII
+	Fuji - FFA
+	Al-Cid - XII
+Crowe - Kg15
+	Ra Devil - LotC
+	Zargabaath - XII
+Fang - XIII
+	Rydia - IV
+	Croma - Choco
+Yuffie - VII
+	Jegran - TCB
+	Vayne - XII
+Iroha - XI
+	Odin - IV
+	Jecht - X
+Cissnei - CC7
+	Leon - II
+	Artimecion - IX
+Mira - MLaaD
+	Rikku - X
+	Noel - XIII2
+Aymeric de Borel - XIV
+	Auron - X
+	Lilisette - XI
+Sazh - XIII
+	Ashe - XII
+	Lulu - X
+Selphie - VIII
+	Cid Raines - XIII
+	Typhon - VI
+Rygdea - XIII
+	Quistis - VIII
+	TG Orlandeau - T
+Denys - BS
+	Squall - VIII
+	Venat - XII
+Ashley - VS
+	Bergan - XII
+	Yuna - X
+Marcus - IX
+	John - VS
+	Edge - IV
+Zack - VII
+	Rosencrantz - VS
+	Vivi - IX
 
 	BRACKET 1:
-Gaius
-	Lenna
-	Reno
-Blank
-	Onion Knight
-	Mog
-Emperor Mateus
-	Yunita
-	Angeal
-Arc
-	Aeris
-	Rosa
-Yuffie
-	Auron
-	Cloud of Darkness
-Freya
-	Brandelis
-	Materia
-Sumo
-	Tseng
-	Artimecion
-Garland
-	Vanille
-	King Leo
-Yaag
-	Cid Highwind
-	Bhunivelze
-Paine
-	Laguna
-	Barbariccia
-Garnet
-	TG Orlandeau
-	Bergan
-Asura
-	Aymeric de Borel
-	Tidus
-Jusqua
-	Yew
-	Seymour
-Mikoto
-	Sephiroth
-	Rinoa
-Golbez
-	Shirma
-	Airy
-Gestahl
-	Ringabel
-	Terra
+Caius - XIII2
+	Red XIII - VII
+	Eald'narche - XI
+Blank - IX
+	Sara Altney - III
+	Mog - Choco
+Beatrix - IX
+	Jusqua - T4HoL
+	Guildenstern - VS
+Cloud - VII
+	Hurdy - TA2
+	Llyud - RW
+Bartz - V
+	Yuri - RoF
+	Noctis - XV
+Freya - IX
+	Apollo - SaGa2
+	Raem - CC
+Emina - T0
+	Cait Sith - VII
+	Seven - T0
+Leonora - TAY
+	Barbariccia - IV
+	Lid - BE
+Belle - TCB
+	Balthier - XII
+	Cloud of Darkness - III
+Princess Sarah - I
+	Layle - TCB
+	Laguna - VIII
+Lasswell - BE
+	Porom - IV
+	Shantotto - XI
+Edea - VIII
+	Arc - III
+	Mog - Mobius
+Garland - I
+	Mikoto - IX
+	Locke - VI
+Chaos - I
+	Mog - VI
+	Rinoa - VIII
+Onion Knight - DFF
+	Wakka - X
+	Cinque - T0
+Cid - IX
+	Sephiroth - VII
+	Shara - TA
 
 	BRACKET 2:
-Cinque
-	Apollo
-	Callo
-Barret
-	Sydney
-	Al-Cid
-Glauca
-	Ashura
-	Xagor
-Vaan
-	Dark Lord
-	Plumed Knight
-Edea
-	Julius
-	Denys
-Fran
-	Cait Sith
-	Tifa
-Quina
-	Fuji
-	Cloud
-Frimelda
-	Ysayle Dangoulain
-	Ra Devil
-Luso
-	Irvine
-	Nine
-Adventurer
-	Shadow
-	Hraesvelgr
-Sazh
-	Mewt
-	Kefka
-Mira
-	Shara
-	Gogo
-Red Mage
-	Cid Randell
-	Garland
-Mog
-	Faris
-	Fusoya
-Aire
-	Fiona
-	Montblanc
-Rosencrantz
-	Linaly
-	Ultima
+Agrias - T
+	Fran - XII
+	Headmaster Cid - VIII
+Barret - VII
+	Shirma - Choco
+	Cu Chaspel - RoF
+Yaag - XIII
+	Marshal Cid - T0
+	Rufus - VII
+Yunita - T4HoL
+	Arthur - SaGa3
+	Edea - BD
+Lenna - V
+	Umaro - VI
+	Bahamut - I
+Tifa - VII
+	Creator - SaGa1
+	Iris - XV
+Aphmau - XI
+	Cyan - VI
+	Drace - XII
+Anne - BS
+	Plumed Knight - WoFF
+	Xagor - SaGa3
+Airy - BD
+	Garland - Mobius
+	Filo - RW
+Shadow - VI
+	Galuf - V
+	Cecil - IV
+Strago - VI
+	Ringabel - BD
+	Reuben - MQ
+Rude - VII
+	Leo - VI
+	Agnes - BD
+Callo - VS
+	Bergan - XII
+	Sumo - FFA
+Ultros - VI
+	Faris - V
+	Kadaj - AC7
+Basch - XII
+	Sydney - VS
+	Haurchefant Greystone - XIV
+Dysley - XIII
+	Julius - FFA
+	King Leo - MLaaK
 
 	BRACKET 3:
-Layle
-	Anne
-	Meliadoul
-Refia
-	Caius
-	Rain
-Ramuh
-	Steiner
-	Meia
-Wol
-	Basch
-	Hope
-Tiz
-	Dark King
-	Llyud
-Bergan
-	Prompto
-	Minwu
-Benjamin
-	Edge
-	Sakura
-Relm
-	Raem
-	Masked Woman
-Eiko
-	The Deathlord
-	Chaos
-Firion
-	Gabranth
-	Lasswell
-Wakka
-	Veritas
-	Darklord Craydall
-Marcus
-	Strago
-	Jake
-Tonogiri
-	Nichol
-	Setzer
-Typhon
-	Black Mage
-	Ardyn
-Fina
-	Reddas
-	Bartz
-Miyu Kagerohi
-	Gau
-	Leonora
+Ovelia - T
+	Illua - TA2
+	Cornelia - XI
+Maria - II
+	Refia - III
+	Y'shtola - XIV
+Zemus - IV
+	Frimelda - TA2
+	Bergan - XII
+Galdes - RoF
+	Miyu Kagerohi - Agito
+	Adelle - TA2
+Libertus - Kg15
+	Cid Sophiar - XV
+	Cid Randell - TA
+Cindy - XV
+	Nimbus - T0
+	Minwu - II
+Rosa - IV
+	Arecia - T0
+	Montblanc - TA
+Beowulf - T
+	Brandelis - WoFF
+	Hein - TSW
+Red Mage - I
+	Echo - Mobius
+	Dycedarg - T
+Firion - II
+	Relm - VI
+	Larsa - XII
+Wol - Mobius
+	Nacht - D
+	Shinryu - DFF
+Benjamin - MQ
+	Garland - IX
+	Luche - Kg15
+Masked Woman - WoFF
+	Mewt - TA
+	Aire - T4HoL
+Black Mage - I
+	Luna - XV
+	Setzer - VI
+Tama - WoFF
+	Shadow Lord - XI
+	Sol - D
+Lann - WoFF
+	Brandt - T4HoL
+	Bergan - XII
 
 	BRACKET 4:
-Caetuna
-	Luche
-	Illua
-Tiz
-	Celes
-	Bergan
-Bergan
-	Arecia
-	Ovelia
-Magnolia
-	Cid Raines
-	Emina
-Qator
-	Amarant
-	Dysley
-Reuben
-	Marshal Cid
-	Ifrit
-Ultimecia
-	King
-	Tristam
-Rikku
-	Diva
-	Queen
-Wandering Minstrel
-	Iris
-	Jack
-Ciaran
-	Eight
-	Monk
-Sice
-	Yuri
-	Rosso
-Echo
-	Shinryu
-	Trey
-Headmaster Cid
-	Segwarides
-	Deuce
-Warrior
-	Hein
-	Balthier
-Libertus
-	Elgo
-	Nero
-Edward
-	Diana
-	Ceodore
+Fiona - CC
+	Diana - D
+	Spiritus - DFF
+Alma - T
+	Tonbetty - MLaaD
+	Ciaran - CC
+Fusoya - IV
+	Lion - XI
+	Adventurer - T4HoL
+Tiz - BD
+	The Deathlord - L2
+	Angeal - CC7
+Morrow - L2
+	Ashura - SaGa1
+	Reynn - WoFF
+Enuo - V
+	Magnolia - BS
+	Veritas - BE
+Drace - XII
+	Jake - BE
+	Hojo - VII
+Segwarides - WoFF
+	Fina - BE
+	White Mage - I
+Terra - VI
+	Wandering Minstrel - XIV
+	Caetuna - T0
+Ultima - T
+	Celestia - T0
+	Vincent - VII
+Sherlotta - EoT
+	Volg - Choco
+	Tiz - T0
+Joker - T0
+	Aki - TSW
+	Sakura - BE
+Dark King - MQ
+	Cid Highwind - VII
+	Diva - T0
+Exdeath - V
+	Materia - DFF
+	Tonberry - T0
+King - T0
+	Ricard - II
+	Qator - T0
+Cid Haze - III
+	Zargabaath - XII
+	Jack - T0
 
 	BRACKET 5:
-Sherlotta
-	Dusk
-	Josef
-Weiss
-	Cindy
-	Delita
-Zargabaath
-	Cid Sophiar
-	Mog
-Noctis
-	Crowe
-	Zargabaath
-Nimbus
-	Aranea
-	Red XIII
-Quickthinx Allthoughts
-	Vossler
-	Kaze
-Leblanc
-	Haurchefant Greystone
-	Cyan
-Exdeath
-	Nael
-	Cater
-Alphinaud
-	Zeid
-	Nyx
-Beowulf
-	Thancred
-	Yang
-Lumina
-	Cid nan Garlond
-	Agnes
-Cu Chaspel
-	Chocolina
-	Wrieg
-Yeul
-	Ingus
-	Aemo
-Venat
-	Good King Moggle Mog
-	Noel
-Aphmau
-	Kimahri
-	Serah
-Ace
-	Jihl
-	Zell
+Sice - T0
+	Aemo - L2
+	Sarah - Mobius
+Marilith - I
+	Azul - DC7
+	Cater - T0
+Leviathan - IV
+	Deuce - T0
+	Ghis - XII
+Ignis - XV
+	Luneth - III
+	Ace - T0
+Rem - T0
+	Elgo - D
+	Ghis - XII
+Regis - XV
+	Nichol - BE
+	Larkeicus - EoT
+Ifrit - V
+	Nyx - Kg15
+	Sabin - VI
+Gaius - XIV
+	Penelo - XII
+	Trey - T0
+Meia - Mobius
+	Isis - SaGa2
+	Hraesvelgr - XIV
+Celes - VI
+	Zeid - XI
+	Nael - XIV
+Good King Moggle Mog - XIV
+	Asura - IV
+	Leblanc - X2
+Meliadoul - T
+	Hope - XIII
+	Alphinaud - XIV
+Yda - XIV
+	Elfe - BC7
+	Jenova - VII
+Tristam - MQ
+	Linaly - LotC
+	Thancred - XIV
+Paine - X2
+	Papalymo - XIV
+	Cid nan Garlond - XIV
+Alexander - XIV
+	Krile - V
+	Bhunivelze - LR
 
 	BRACKET 6:
-Arthur
-	Sarah
-	Snow
-Nacht
-	Aki
-	Filo
-Kytes
-	Tonbetty
-	Luneth
-John
-	Krile
-	Ashe
-Ghis
-	Iroha
-	Tonberry
-Galdes
-	Qun'mi
-	Beatrix
-Vivi
-	Belle
-	Enuo
-Marlene
-	Zidane
-	Spiritus
-Seifer
-	Gladiolus
-	Lion
-Edea
-	Rubicante
-	Legendary Turk
-Rude
-	Elfe
-	Chaos
-Sara Altney
-	Lazard
-	Penelo
-Marilith
-	Brandt
-	Genesis
-Garland
-	Agrias
-	Jessie
-Rufus
-	Vincent
-	Eald'narche
-Kurasame
-	Leo
-	Odin
+Quickthinx Allthoughts - XIV
+	Chocolina - XIII2
+	Irvine - VIII
+Seymour - X
+	Darklord Craydall - MLaaK
+	Serah - XIII
+Thief - I
+	Jihl - XIII
+	Ardyn - XV
+Eiko - IX
+	Aria - III
+	Vanille - XIII
+Snow - XIII
+	Delita - T
+	Chaos - Mobius
+Kytes - RW
+	Reddas - XII
+	Yang - IV
+Ysayle Dangoulain - XIV
+	Marche - TA
+	Gabranth - XII
+Prishe - XI
+	Vossler - XII
+	Kurasame - T0
+Kimahri - X
+	Minfilia - XIV
+	Aranea - XV
+Gestahl - VI
+	Tidus - X
+	Luso - TA2
+Machina - T0
+	Weiss - DC7
+	Kuja - IX
+Quina - IX
+	Queen - T0
+	Dr. Cid - XII
+Steiner - IX
+	Rain - BE
+	Dark Lord - FFA
+Wrieg - L2
+	Garnet - IX
+	Ramuh - IX
+Golbez - IV
+	Guy - II
+	Ultimecia - VIII
+Yew - BS
+	Seifer - VIII
+	Glauca - Kg15
 
 	BRACKET 7:
-Kadaj
-	Drace
-	Sabin
-Chocobo
-	Minfilia
-	Edgar
-Porom
-	Locke
-	Shelke
-Gilgamesh
-	Umaro
-	Vayne
-Ursula
-	Ghis
-	Bahamut
-Zemus
-	Luna
-	Hurdy
-Cissnei
-	Cid Pollendina
-	Ignis
-Guy
-	Palom
-	Marche
-Tellah
-	Volg
-	Dr. Cid
-Ultros
-	Rydia
-	Kain
-Shantotto
-	Tama
-	Cecil
-Leila
-	Leviathan
-	Ashley
-Ricard
-	White Mage
-	Rygdea
-Fuhito
-	Croma
-	Warrior of Light
-Papalymo
-	Princess Sarah
-	Prishe
-Thief
-	Larkeicus
-	Aria
+Gau - VI
+	Lumina - LR
+	Shelke - DC7
+Legendary Turk - BC7
+	Rubicante - IV
+	Ursula - TAY
+Rosso - DC7
+	Lazard - CC7
+	Vaan - XII
+Prompto - XV
+	Genesis - CC7
+	Chocobo - Choco
+Tonogiri - T0
+	Edward - IV
+	Jessie - VII
+Kefka - VI
+	Tellah - IV
+	Qun'mi - T0
+Zell - VIII
+	Amarant - IX
+	Gilgamesh - V
+Kaze - FFU
+	Aeris - VII
+	Ceodore - TAY
+Yeul - XIII2
+	Marlene - VII
+	Cid Pollendina - IV
+Nero - DC7
+	Palom - IV
+	Edgar - VI
+Tseng - VII
+	Eight - T0
+	Desch - III
+Ingus - III
+	Gogo - VI
+	Reno - VII
+Gladiolus - XV
+	Dusk - D
+	Josef - II
+Nine - T0
+	Leila - II
+	Emperor Mateus - II
+Ramza - T
+	Kain - IV
+	Warrior of Light - DFF
+Monk - I
+	Biggs and Wedge - VI
+	Cor - XV
 
 
 	BRACKETS:
 
 
 	BRACKET 0:
-Odin
-	Callo
-	Arc
-Lumina
-	Brandelis
-	Lightning
-Shirma
-	Umaro
-	Ringabel
-Sarah
-	Jihl
-	Jenova
-Jake
-	Tellah
-	Leviathan
-Ursula
-	Yunita
-	Jecht
-Legendary Turk
-	Krile
-	Yuffie
-Mog
-	Rydia
-	Bergan
-Headmaster Cid
-	Cid Highwind
-	Fang
-Shara
-	Lulu
-	Belle
-Paine
-	Nero
-	Cinque
-Cindy
-	Quistis
-	Ricard
-Serah
-	Zack
-	Dr. Cid
-Reuben
-	Yuna
-	Jessie
-Chocobo
-	Tseng
-	Mog
-Beowulf
-	Hojo
-	Cosmos
+Xagor - SaGa3
+	Hojo - VII
+	Llyud - RW
+Selphie - VIII
+	Chocobo - Choco
+	Lightning - XIII
+Cindy - XV
+	Quistis - VIII
+	Fiona - CC
+Benjamin - MQ
+	Cloud of Darkness - III
+	Sephiroth - VII
+Jegran - TCB
+	Aire - T4HoL
+	Rosa - IV
+Jecht - X
+	Porom - IV
+	Thancred - XIV
+Gogo - VI
+	Guildenstern - VS
+	Cid - IX
+Fang - XIII
+	Delita - T
+	Sherlotta - EoT
+Ciaran - CC
+	Vayne - XII
+	Arc - III
+Mog - Choco
+	Cor - XV
+	Lulu - X
+Edgar - VI
+	Filo - RW
+	Drace - XII
+Darklord Craydall - MLaaK
+	Cyan - VI
+	Auron - X
+Zack - VII
+	Strago - VI
+	Bergan - XII
+Galdes - RoF
+	Tiz - T0
+	Yuna - X
+Asura - IV
+	Arecia - T0
+	Sara Altney - III
+Segwarides - WoFF
+	Jenova - VII
+	Eald'narche - XI
 
 	BRACKET 1:
-Steiner
-	Sephiroth
-	Venat
-Yeul
-	Delita
-	Blank
-Benjamin
-	Vossler
-	Meliadoul
-Vincent
-	Ingus
-	Red XIII
-Fran
-	Rosa
-	Tristam
-Freya
-	Cloud
-	King Leo
-Zell
-	Hraesvelgr
-	Ghis
-Emperor Mateus
-	Ramza
-	Alexander
-Lion
-	Garland
-	Drace
-Bhunivelze
-	Laguna
-	Marche
-Celes
-	Tiz
-	Prompto
-Arecia
-	Machina
-	Cor
-Sydney
-	Ifrit
-	Rygdea
-Rinoa
-	Montblanc
-	Nine
-Nyx
-	Rude
-	Denys
-Yaag
-	Prishe
-	Rufus
+Reuben - MQ
+	Lenna - V
+	Tonbetty - MLaaD
+Blank - IX
+	Tonogiri - T0
+	Ifrit - V
+Elgo - D
+	Ultimecia - VIII
+	Enuo - V
+Emperor Mateus - II
+	Cissnei - CC7
+	Bartz - V
+Marlene - VII
+	Weiss - DC7
+	Shinryu - DFF
+Red XIII - VII
+	Freya - IX
+	Aranea - XV
+Adventurer - T4HoL
+	Steiner - IX
+	Venat - XII
+King - T0
+	Garnet - IX
+	Krile - V
+Tama - WoFF
+	Rubicante - IV
+	Hraesvelgr - XIV
+Laguna - VIII
+	Kefka - VI
+	Palom - IV
+Golbez - IV
+	Ashley - VS
+	Ovelia - T
+Reno - VII
+	Lann - WoFF
+	Marcus - IX
+Kadaj - AC7
+	Cosmos - DFF
+	Fuhito - BC7
+John - VS
+	Diva - T0
+	Rinoa - VIII
+Luneth - III
+	Wrieg - L2
+	Callo - VS
+Tseng - VII
+	Cid nan Garlond - XIV
+	Marshal Cid - T0
 
 	BRACKET 2:
-Guy
-	Cid Pollendina
-	Libertus
-Gau
-	Frimelda
-	Barret
-John
-	Angeal
-	Chocolina
-Larkeicus
-	Crowe
-	Artimecion
-Maria
-	Red Mage
-	Gogo
-Tifa
-	Genesis
-	Croma
-Julius
-	Bartz
-	Wol
-Kytes
-	Darklord Craydall
-	Edgar
-Lenna
-	Zemus
-	Ultros
-Shadow
-	Brandt
-	Chaos
-Cissnei
-	Qun'mi
-	Asura
-Sol
-	Hurdy
-	The Deathlord
-Bergan
-	Shadow Lord
-	Llyud
-Barbariccia
-	Lazard
-	Faris
-Biggs and Wedge
-	Wrieg
-	Ra Devil
-Weiss
-	Eight
-	Alma
+Vincent - VII
+	Cid Haze - III
+	Balthier - XII
+Haurchefant Greystone - XIV
+	Bergan - XII
+	Barret - VII
+Basch - XII
+	Aki - TSW
+	Meliadoul - T
+Rude - VII
+	Typhon - VI
+	Aemo - L2
+Dark King - MQ
+	Umaro - VI
+	Apollo - SaGa2
+Thief - I
+	Tifa - VII
+	Marilith - I
+Crowe - Kg15
+	Vossler - XII
+	Hurdy - TA2
+Zargabaath - XII
+	Red Mage - I
+	Barbariccia - IV
+Artimecion - IX
+	Frimelda - TA2
+	Mira - MLaaD
+Edea - BD
+	Shadow - VI
+	Anne - BS
+Fusoya - IV
+	Garland - I
+	Shantotto - XI
+Sabin - VI
+	Isis - SaGa2
+	Kurasame - T0
+Diana - D
+	Leviathan - IV
+	Wandering Minstrel - XIV
+Machina - T0
+	Ghis - XII
+	Faris - V
+Ramuh - IX
+	Cid Raines - XIII
+	Josef - II
+Denys - BS
+	Sice - T0
+	Prompto - XV
 
 	BRACKET 3:
-Aria
-	Aphmau
-	Guildenstern
-Gabranth
-	Diana
-	Refia
-Drace
-	Shinryu
-	Dusk
-Bergan
-	Yuri
-	Illua
-Joker
-	Elgo
-	Bahamut
-Minwu
-	Garnet
-	Exdeath
-Porom
-	Bergan
-	Cid Raines
-Anne
-	Aranea
-	Auron
-Airy
-	Miyu Kagerohi
-	Magnolia
-Firion
-	Warrior of Light
-	Rubicante
-Galuf
-	Snow
-	Edea
-Agnes
-	Xagor
-	Rikku
-Apollo
-	Basch
-	Cait Sith
-Black Mage
-	Ceodore
-	Trey
-Ardyn
-	Marilith
-	Creator
-Hope
-	Tidus
-	Fuji
+Airy - BD
+	Queen - T0
+	Monk - I
+Shara - TA
+	Refia - III
+	Caetuna - T0
+Agnes - BD
+	Kimahri - X
+	Sarah - Mobius
+Noctis - XV
+	Tiz - BD
+	Caius - XIII2
+Rosencrantz - VS
+	Magnolia - BS
+	Alexander - XIV
+Echo - Mobius
+	Mog - VI
+	Minwu - II
+Illua - TA2
+	Ricard - II
+	Dark Lord - FFA
+Fuji - FFA
+	Zemus - IV
+	Yuffie - VII
+Yuri - RoF
+	Nael - XIV
+	Croma - Choco
+Gladiolus - XV
+	Firion - II
+	White Mage - I
+Adelle - TA2
+	Reddas - XII
+	Lid - BE
+Serah - XIII
+	Luso - TA2
+	Ace - T0
+Mewt - TA
+	Ultros - VI
+	Nero - DC7
+Black Mage - I
+	Gilgamesh - V
+	Onion Knight - DFF
+Noel - XIII2
+	Cid Sophiar - XV
+	TG Orlandeau - T
+Dycedarg - T
+	Setzer - VI
+	Larkeicus - EoT
 
 	BRACKET 4:
-Yda
-	Ultima
-	Volg
-Adelle
-	Aeris
-	Nacht
-Hein
-	Luso
-	King
-Mewt
-	Tama
-	Amarant
-Cid Randell
-	Ashley
-	Terra
-Marlene
-	Setzer
-	Garland
-Tonogiri
-	Meia
-	Veritas
-Lasswell
-	Squall
-	Dark King
-Arthur
-	Masked Woman
-	Cid Haze
-Tonbetty
-	Cater
-	Plumed Knight
-Segwarides
-	Papalymo
-	Mikoto
-Lann
-	Desch
-	Rosencrantz
-Nichol
-	Morrow
-	Raem
-Lid
-	Jusqua
-	Eiko
-Fina
-	Marcus
-	Luneth
-Yew
-	Rain
-	Ultimecia
+Nacht - D
+	Leila - II
+	Chaos - Mobius
+Garland - Mobius
+	Snow - XIII
+	Alphinaud - XIV
+Nimbus - T0
+	Azul - DC7
+	Meia - Mobius
+Masked Woman - WoFF
+	Cinque - T0
+	Raem - CC
+Reynn - WoFF
+	Edge - IV
+	Rain - BE
+Spiritus - DFF
+	Morrow - L2
+	Rikku - X
+Veritas - BE
+	Bergan - XII
+	Leblanc - X2
+Sazh - XIII
+	Jake - BE
+	Brandelis - WoFF
+Nichol - BE
+	Rygdea - XIII
+	Cu Chaspel - RoF
+Materia - DFF
+	Fina - BE
+	Ceodore - TAY
+Seifer - VIII
+	Kaze - FFU
+	Lasswell - BE
+Miyu Kagerohi - Agito
+	Y'shtola - XIV
+	Trey - T0
+Celestia - T0
+	Maria - II
+	Creator - SaGa1
+Leonora - TAY
+	Layle - TCB
+	Joker - T0
+Emina - T0
+	Belle - TCB
+	Jessie - VII
+Qator - T0
+	Bergan - XII
+	Aeris - VII
 
 	BRACKET 5:
-Caetuna
-	Glauca
-	Aire
-Tiz
-	Aemo
-	Cid
-Emina
-	Ace
-	Mog
-Wandering Minstrel
-	Qator
-	Monk
-Nimbus
-	Gladiolus
-	Ciaran
-Marshal Cid
-	Leonora
-	Cid nan Garlond
-Rem
-	Rosso
-	Tonberry
-Jack
-	Edward
-	Celestia
-Seymour
-	Deuce
-	Kefka
-Azul
-	Luche
-	Seven
-Queen
-	Iris
-	Ghis
-Sakura
-	Fuhito
-	Luna
-Ysayle Dangoulain
-	TG Orlandeau
-	Strago
-Selphie
-	Haurchefant Greystone
-	Zargabaath
-Noctis
-	Dycedarg
-	Aymeric de Borel
-Leo
-	Nael
-	Echo
+Qun'mi - T0
+	Leon - II
+	Marche - TA
+Tonberry - T0
+	Montblanc - TA
+	Gabranth - XII
+The Deathlord - L2
+	Nyx - Kg15
+	Rem - T0
+Ringabel - BD
+	Jack - T0
+	Cid Highwind - VII
+Eight - T0
+	Al-Cid - XII
+	Mog - Mobius
+Bahamut - I
+	Seven - T0
+	Princess Sarah - I
+Edea - VIII
+	Hein - TSW
+	Regis - XV
+Nine - T0
+	Squall - VIII
+	Libertus - Kg15
+Biggs and Wedge - VI
+	Glauca - Kg15
+	Cater - T0
+Ghis - XII
+	Deuce - T0
+	Iris - XV
+Paine - X2
+	Luna - XV
+	Larsa - XII
+Penelo - XII
+	Quickthinx Allthoughts - XIV
+	Warrior - I
+Angeal - CC7
+	Wol - Mobius
+	Gaius - XIV
+Rydia - IV
+	Yda - XIV
+	Yang - IV
+Garland - IX
+	Minfilia - XIV
+	Leo - VI
+Cid Pollendina - IV
+	Papalymo - XIV
+	King Leo - MLaaK
 
 	BRACKET 6:
-Quina
-	Reynn
-	Thancred
-Minfilia
-	Sumo
-	Kurasame
-Alphinaud
-	Sherlotta
-	Dysley
-Typhon
-	Good King Moggle Mog
-	Vanille
-Jegran
-	Filo
-	Agrias
-Josef
-	Gestahl
-	Al-Cid
-Cu Chaspel
-	Beatrix
-	Reddas
-Kaze
-	Ovelia
-	Balthier
-Shelke
-	Zeid
-	Garland
-Sazh
-	Mira
-	Iroha
-Leblanc
-	Larsa
-	Vaan
-Isis
-	Zargabaath
-	Kimahri
-Sara Altney
-	Kuja
-	Shantotto
-Vivi
-	Materia
-	Adventurer
-Zidane
-	Wakka
-	Reno
-Onion Knight
-	Sabin
-	Seifer
+Bhunivelze - LR
+	Tristam - MQ
+	Sydney - VS
+Lumina - LR
+	Alma - T
+	Julius - FFA
+Brandt - T4HoL
+	Exdeath - V
+	Yeul - XIII2
+Yew - BS
+	Dysley - XIII
+	Vaan - XII
+Aymeric de Borel - XIV
+	Ashe - XII
+	Quina - IX
+Arthur - SaGa3
+	Gau - VI
+	Fran - XII
+Plumed Knight - WoFF
+	Lion - XI
+	Jusqua - T4HoL
+Genesis - CC7
+	Chaos - I
+	Zeid - XI
+Chocolina - XIII2
+	Iroha - XI
+	Rufus - VII
+Prishe - XI
+	Cid Randell - TA
+	Jihl - XIII
+Seymour - X
+	Ashura - SaGa1
+	Galuf - V
+Tidus - X
+	Yunita - T4HoL
+	Guy - II
+Cornelia - XI
+	Drace - XII
+	Amarant - IX
+Hope - XIII
+	Ingus - III
+	Vivi - IX
+Mikoto - IX
+	Good King Moggle Mog - XIV
+	Irvine - VIII
+Beatrix - IX
+	Shelke - DC7
+	Volg - Choco
 
 	BRACKET 7:
-Edea
-	Lilisette
-	Eald'narche
-Cid Sophiar
-	Irvine
-	Layle
-Elfe
-	Warrior
-	Relm
-Quickthinx Allthoughts
-	Chaos
-	Locke
-Linaly
-	Y'shtola
-	Fusoya
-Fiona
-	Ashura
-	Gilgamesh
-Sice
-	Aki
-	Golbez
-Palom
-	Regis
-	Ashe
-Penelo
-	Edge
-	Dark Lord
-Galdes
-	Ignis
-	Kain
-Cecil
-	Cyan
-	Yang
-Cloud of Darkness
-	Leila
-	Enuo
-Kadaj
-	Leon
-	Diva
-Princess Sarah
-	Spiritus
-	Caius
-Ramuh
-	Thief
-	Noel
-White Mage
-	Gaius
-	Vayne
-
-
-	BRACKETS:
-
-
-	BRACKET 0:
-Golbez
-	Trey
-	Leviathan
-Bergan
-	Lightning
-	Shadow Lord
-Arecia
-	Yuffie
-	Cosmos
-Rikku
-	Alexander
-	Lazard
-Auron
-	Cindy
-	Isis
-Jecht
-	Lumina
-	Kuja
-Fuji
-	Rubicante
-	Noel
-Mog
-	Hein
-	Quistis
-Zack
-	Galdes
-	Gogo
-Lulu
-	Marlene
-	Adelle
-Sazh
-	Warrior of Light
-	Jenova
-Caius
-	Rosencrantz
-	Red XIII
-Galuf
-	Kain
-	Denys
-Zargabaath
-	Yuna
-	Ifrit
-Tonberry
-	Iris
-	Quina
-Ursula
-	Lenna
-	Luna
-
-	BRACKET 1:
-Prishe
-	Barbariccia
-	Locke
-Legendary Turk
-	Blank
-	Tristam
-Garland
-	Nyx
-	Jack
-Glauca
-	Rosa
-	Ignis
-Callo
-	Warrior
-	Thancred
-Cid Randell
-	Ultima
-	Freya
-Libertus
-	Dr. Cid
-	Gau
-Mira
-	Rude
-	Alma
-Aki
-	Papalymo
-	Filo
-White Mage
-	Laguna
-	Porom
-Chaos
-	Cinque
-	Deuce
-Seven
-	John
-	Bahamut
-Ashe
-	Artimecion
-	Wrieg
-Garland
-	Rinoa
-	Mikoto
-Red Mage
-	Angeal
-	Cecil
-Yuri
-	Headmaster Cid
-	Wandering Minstrel
-
-	BRACKET 2:
-Shantotto
-	Arc
-	Monk
-Barret
-	Marshal Cid
-	TG Orlandeau
-Garnet
-	Diva
-	Mewt
-Hurdy
-	Ghis
-	Sherlotta
-Bergan
-	Sephiroth
-	Zidane
-Tifa
-	Meliadoul
-	Benjamin
-Hojo
-	Bergan
-	Vaan
-Hope
-	Asura
-	Jusqua
-Reno
-	Edgar
-	Odin
-Chocolina
-	Yaag
-	Shadow
-Ghis
-	Josef
-	Noctis
-Tiz
-	Sakura
-	Anne
-Weiss
-	Y'shtola
-	Ringabel
-Miyu Kagerohi
-	Desch
-	Faris
-Agnes
-	Sara Altney
-	Enuo
-Exdeath
-	Arthur
-	Genesis
-
-	BRACKET 3:
-Nacht
-	Creator
-	Nichol
-Edea
-	Shirma
-	Refia
-Sumo
-	Raem
-	Penelo
-Illua
-	Lann
-	Ciaran
-Morrow
-	Frimelda
-	Eiko
-Tseng
-	Minwu
-	Squall
-Venat
-	Shara
-	Ashura
-Montblanc
-	Brandelis
-	Kadaj
-Vayne
-	Beowulf
-	Cloud
-Layle
-	Reddas
-	Firion
-Agrias
-	Bartz
-	Zell
-Guildenstern
-	Dycedarg
-	Sarah
-Mog
-	Gabranth
-	Zeid
-Nine
-	Black Mage
-	Larkeicus
-Apollo
-	Bergan
-	Echo
-Caetuna
-	Meia
-	Cid nan Garlond
-
-	BRACKET 4:
-Rygdea
-	Wol
-	Joker
-Fiona
-	Tiz
-	Leila
-Vossler
-	Airy
-	Aire
-Luneth
-	Vincent
-	Yunita
-The Deathlord
-	Sol
-	Chaos
-Bhunivelze
-	Veritas
-	Reynn
-Dark Lord
-	Tonbetty
-	Jake
-Strago
-	Fina
-	Onion Knight
-Rain
-	Relm
-	Croma
-Qator
-	Ramuh
-	Shinryu
-Cissnei
-	Nimbus
-	Quickthinx Allthoughts
-Qun'mi
-	Tama
-	Leblanc
-Spiritus
-	Rem
-	Cloud of Darkness
-Volg
-	Segwarides
-	King
-Cid Sophiar
-	Eight
-	Leon
-Elfe
-	Fang
-	Sice
-
-	BRACKET 5:
-Cater
-	Celestia
-	Cid Highwind
-Elgo
-	Lasswell
-	Nero
-Xagor
-	Thief
-	Diana
-Luso
-	Machina
-	Dusk
-Regis
-	Zargabaath
-	Marilith
-Crowe
-	Garland
-	Shelke
-Eald'narche
-	Aranea
-	Cyan
-Ashley
-	Typhon
-	Cor
-Gladiolus
-	Biggs and Wedge
-	Masked Woman
-Queen
-	Celes
-	Haurchefant Greystone
-Snow
-	Paine
-	Aymeric de Borel
-Rosso
-	Gaius
-	Ardyn
-Ovelia
-	Nael
-	Mog
-Cid
-	Dysley
-	King Leo
-Cid Haze
-	Vanille
-	Fusoya
-Jihl
-	Llyud
-	Ysayle Dangoulain
-
-	BRACKET 6:
-Princess Sarah
-	Kytes
-	Azul
-Al-Cid
-	Ceodore
-	Julius
-Fran
-	Jegran
-	Basch
-Sabin
-	Balthier
-	Amarant
-Aphmau
-	Marche
-	Yda
-Leonora
-	Serah
-	Lilisette
-Lion
-	Ultros
-	Palom
-Brandt
-	Belle
-	Iroha
-Prompto
-	Seymour
-	Good King Moggle Mog
-Emina
-	Maria
-	Kimahri
-Seifer
-	Cid Pollendina
-	Wakka
-Tidus
-	Delita
-	Plumed Knight
-Steiner
-	Cu Chaspel
-	Rufus
-Emperor Mateus
-	Vivi
-	Ace
-Gilgamesh
-	Rydia
-	Ultimecia
-Yang
-	Reuben
-	Irvine
-
-	BRACKET 7:
-Fuhito
-	Chocobo
-	Jessie
-Edea
-	Cait Sith
-	Cid Raines
-Sydney
-	Aeris
-	Larsa
-Kefka
-	Beatrix
-	Gestahl
-Tonogiri
-	Alphinaud
-	Leo
-Setzer
-	Kurasame
-	Ramza
-Terra
-	Marcus
-	Krile
-Umaro
-	Dark King
-	Ra Devil
-Materia
-	Linaly
-	Selphie
-Magnolia
-	Zemus
-	Drace
-Tellah
-	Lid
-	Adventurer
-Edward
-	Drace
-	Darklord Craydall
-Kaze
-	Edge
-	Luche
-Ingus
-	Hraesvelgr
-	Yew
-Minfilia
-	Ricard
-	Aria
-Aemo
-	Guy
-	Yeul
-
-
-	BRACKETS:
-
-
-	BRACKET 0:
-Good King Moggle Mog
-	Leo
-	Leviathan
-Aymeric de Borel
-	John
-	Lightning
-Al-Cid
-	Gaius
-	Libertus
-Mog
-	Julius
-	Zargabaath
-Kadaj
-	Rikku
-	Onion Knight
-Jecht
-	Alma
-	Cosmos
-Tonogiri
-	Fina
-	Sazh
-Desch
-	Squall
-	Reynn
-Cecil
-	Gladiolus
-	Zack
-Lulu
-	Umaro
-	Haurchefant Greystone
-Cid
-	Shadow Lord
-	Ashe
-Ashley
-	Filo
-	Jenova
-Hojo
-	Aki
-	Ultros
-Garland
-	Fuji
-	Yuna
-Lasswell
-	Luneth
-	Xagor
-Croma
-	Materia
-	Sephiroth
-
-	BRACKET 1:
-Mikoto
-	Red XIII
-	Gestahl
-Blank
-	Drace
-	Rude
-Sakura
-	Cyan
-	Masked Woman
-Cloud
-	Brandelis
-	Bergan
-Exdeath
-	Marilith
-	Ghis
-Setzer
-	Aire
-	Freya
-Morrow
-	Edgar
-	Cid nan Garlond
-Arc
-	Terra
-	Gabranth
-Emperor Mateus
-	Luso
-	Ifrit
-Odin
-	Laguna
-	Shirma
-Sara Altney
-	Marshal Cid
-	Legendary Turk
-Warrior
-	Jusqua
-	Shinryu
-Kefka
-	Lumina
-	Wol
-Rinoa
-	Genesis
-	Porom
-Jake
-	Bartz
-	Seven
-Cor
-	Snow
-	Eiko
-
-	BRACKET 2:
-Warrior of Light
-	Vossler
-	Veritas
-Fiona
-	Palom
-	Barret
-Wandering Minstrel
-	King Leo
-	Chaos
-Rubicante
-	Nael
-	Drace
-Rosencrantz
-	Celestia
-	Bergan
-Shara
-	Ceodore
-	Tifa
-Lenna
-	TG Orlandeau
-	Ramuh
-Marlene
-	Chaos
-	Ghis
-Creator
-	Rydia
-	Bergan
-Kimahri
-	Mira
-	Shadow
-Magnolia
-	Tristam
-	Galdes
-Tseng
-	Edea
-	Ultima
-Spiritus
-	Ringabel
-	Relm
-Tonbetty
-	Faris
-	Sarah
-Zell
-	Thancred
-	Agnes
-Tiz
-	Cid Haze
-	Marcus
-
-	BRACKET 3:
-Garland
-	Quistis
-	Dark Lord
-Refia
-	Denys
-	Fusoya
-Monk
-	Rufus
-	Sumo
-Leonora
-	Selphie
-	Illua
-Fran
-	Frimelda
-	Nichol
-Vivi
-	Minwu
-	Guy
-Mewt
-	Balthier
-	Adelle
-Cid Raines
-	Marche
-	Angeal
-Garland
-	Diana
-	Rosso
-Dycedarg
-	Meia
-	Firion
-Cinque
-	Reuben
-	Nacht
-Plumed Knight
-	Rosa
-	Emina
-Nine
-	Krile
-	Adventurer
-Black Mage
-	Vanille
-	Yew
-Yunita
-	Cissnei
-	Tama
-Lid
-	Larsa
-	Golbez
-
-	BRACKET 4:
-Caius
-	Typhon
-	Rain
-Cu Chaspel
-	Kaze
-	Cid Sophiar
-Miyu Kagerohi
-	Paine
-	Sabin
-Guildenstern
-	Caetuna
-	Ra Devil
-Joker
-	Venat
-	Montblanc
-Arecia
-	Queen
-	Kuja
-Azul
-	Cid Pollendina
-	Diva
-Enuo
-	Qun'mi
-	Aemo
-Machina
-	Kurasame
-	Gau
-Meliadoul
-	Y'shtola
-	King
-Bahamut
-	Jack
-	Cid Randell
-Ciaran
-	Eight
-	Hurdy
-Deuce
-	Hraesvelgr
-	Artimecion
-Ace
-	Quina
-	The Deathlord
-Hein
-	Sice
-	Noctis
-Cid Highwind
-	Elgo
-	Benjamin
-
-	BRACKET 5:
-Bergan
-	Dusk
-	Aphmau
-Tiz
-	Edea
-	Ardyn
-Raem
-	Regis
-	Sol
-Darklord Craydall
-	Luche
-	Delita
-Celes
-	Irvine
-	Iris
-Prompto
-	Headmaster Cid
-	Seifer
-Ysayle Dangoulain
-	Zargabaath
-	Agrias
-Apollo
-	Dark King
-	Yda
-Gogo
-	Minfilia
-	Sydney
-Alphinaud
-	Papalymo
-	Brandt
-Ashura
-	Bhunivelze
-	Llyud
-Chocolina
-	Yuri
-	Gilgamesh
-Yeul
-	Isis
-	Yaag
-Ignis
-	Dr. Cid
-	Noel
-Rygdea
-	Tidus
-	Shantotto
-Barbariccia
-	Zemus
-	Dysley
-
-	BRACKET 6:
-Airy
-	Ricard
-	Jihl
-Auron
-	Kytes
-	Princess Sarah
-Lann
-	Aranea
-	Reddas
-Lion
-	Asura
-	Luna
-Cindy
-	Zeid
-	Quickthinx Allthoughts
-Red Mage
-	Mog
-	Iroha
-Hope
-	Prishe
-	Edge
-Yang
-	Arthur
-	Leblanc
-Basch
-	Nero
-	Seymour
-Wakka
-	Serah
-	Galuf
-Sherlotta
-	Ramza
-	Beatrix
-Garnet
-	Ingus
-	Wrieg
-Anne
-	Belle
-	Ultimecia
-Shelke
-	Rem
-	Segwarides
-Tonberry
-	Kain
-	Elfe
-Crowe
-	Echo
-	Lazard
-
-	BRACKET 7:
-Jessie
-	Eald'narche
-	Zidane
-Cait Sith
-	Vaan
-	Mog
-Glauca
-	Fuhito
-	Vincent
-Volg
-	Layle
-	Aeris
-Beowulf
-	Jegran
-	Strago
-Biggs and Wedge
-	Locke
-	Penelo
-Lilisette
-	Linaly
-	Weiss
-Nyx
-	Reno
-	Ursula
-Amarant
-	Tellah
-	Maria
-Edward
-	Callo
-	Alexander
-Aria
-	Nimbus
-	Cater
-Larkeicus
-	Josef
-	Steiner
-Ovelia
-	Fang
-	Leila
-Cloud of Darkness
-	Leon
-	Trey
-Vayne
-	Chocobo
-	Thief
-White Mage
-	Qator
-	Yuffie
-
-
-	BRACKETS:
-
-
-	BRACKET 0:
-Larsa
-	Cyan
-	Trey
-Magnolia
-	Lightning
-	Mira
-Terra
-	Thief
-	Sazh
-Aranea
-	Paine
-	Jenova
-Wakka
-	Exdeath
-	Typhon
-Larkeicus
-	Ashley
-	Jecht
-Y'shtola
-	Kefka
-	Dr. Cid
-Machina
-	Cloud of Darkness
-	Cloud
-Arc
-	Enuo
-	Darklord Craydall
-Shantotto
-	Lulu
-	Legendary Turk
-Shinryu
-	Adelle
-	Ingus
-Shirma
-	Rygdea
-	Drace
-Beowulf
-	Biggs and Wedge
-	Rydia
-Rubicante
-	Yuna
-	John
-Angeal
-	Porom
-	Tristam
-Regis
-	Golbez
-	Ysayle Dangoulain
-
-	BRACKET 1:
-Vincent
-	Chocobo
-	Caetuna
-Reuben
-	Blank
-	Garnet
-Aki
-	Eiko
-	Vanille
-Tiz
-	Tama
-	Ifrit
-Denys
-	King Leo
-	Wandering Minstrel
-Freya
-	Headmaster Cid
-	Luche
-Zargabaath
-	Segwarides
-	Crowe
-Bergan
-	Nero
-	Ramuh
-Krile
-	Elfe
-	Asura
-Iris
-	Laguna
-	Ashura
-Bahamut
-	Sol
-	Good King Moggle Mog
-Tonberry
-	Isis
-	Drace
-Cater
-	Hurdy
-	Bergan
-Warrior of Light
-	Rinoa
-	Lilisette
-Anne
-	Mog
-	Fuji
-Deuce
-	Guildenstern
-	Yew
-
-	BRACKET 2:
-Cecil
-	Callo
-	Monk
-Miyu Kagerohi
-	Mog
-	Barret
-Mewt
-	Sydney
-	Aeris
-Xagor
-	Emina
-	Leon
-Rosa
-	Arthur
-	Palom
-Tifa
-	Mikoto
-	Cid nan Garlond
-Venat
-	Cosmos
-	Creator
-Sumo
-	Ovelia
-	Azul
-Agnes
-	Yunita
-	Croma
-Shadow
-	Onion Knight
-	Kadaj
-Cid
-	Jihl
-	Frimelda
-Jusqua
-	Cid Randell
-	Amarant
-Brandt
-	Aymeric de Borel
-	Montblanc
-Faris
-	Josef
-	Eald'narche
-Noel
-	Ultima
-	Rain
-Meliadoul
-	Kain
-	Emperor Mateus
-
-	BRACKET 3:
-Edge
-	Sakura
-	Dycedarg
-Mog
-	Refia
-	Delita
-Vossler
-	Jegran
-	Chaos
-Fang
-	Apollo
-	Garland
-Echo
-	Qun'mi
-	Lann
-Ceodore
-	Zack
-	Minwu
-Ignis
-	Meia
-	Locke
-Alexander
-	Benjamin
-	Marcus
-Balthier
-	Volg
-	Brandelis
-Sherlotta
-	Agrias
-	Firion
-Diva
-	Vaan
-	Masked Woman
-Warrior
-	Seifer
-	Plumed Knight
-Jack
-	Belle
-	Yuri
-Alma
-	Illua
-	Black Mage
-Fiona
-	Raem
-	Cid Highwind
-Hraesvelgr
-	Wrieg
-	Rosencrantz
-
-	BRACKET 4:
-Ghis
-	Aemo
-	Aire
-Shadow Lord
-	Steiner
-	Morrow
-Nimbus
-	Veritas
-	Dark King
-Jake
-	Maria
-	Zargabaath
-Luso
-	Lid
-	Hein
-Dark Lord
-	Sarah
-	Fina
-Reno
-	Thancred
-	Kaze
-Leila
-	Tonogiri
-	Julius
-Papalymo
-	Hojo
-	Celestia
-Nacht
-	Ringabel
-	Joker
-Sephiroth
-	Arecia
-	Prompto
-Kurasame
-	Leviathan
-	Lion
-Layle
-	Qator
-	Chaos
-Rosso
-	Marshal Cid
-	Ramza
-Rem
-	Wol
-	Selphie
-Bergan
-	Garland
-	Nine
-
-	BRACKET 5:
-Auron
-	Llyud
-	Eight
-Queen
-	Diana
-	Rikku
-Cindy
-	Lazard
-	Barbariccia
-Cid Sophiar
-	Gladiolus
-	Strago
-Yuffie
-	Vayne
-	Libertus
-Red XIII
-	Zell
-	Quickthinx Allthoughts
-Gaius
-	Marilith
-	Galdes
-Nael
-	Artimecion
-	Rufus
-Yaag
-	Alphinaud
-	Aria
-Yda
-	Leo
-	Luneth
-Zemus
-	Cid Raines
-	Minfilia
-Squall
-	Red Mage
-	Bhunivelze
-Lumina
-	Relm
-	Basch
-Chocolina
-	Weiss
-	Irvine
-Garland
-	Caius
-	Cinque
-Noctis
-	Ultimecia
-	Serah
-
-	BRACKET 6:
-Dysley
-	Marlene
-	Kuja
-Leonora
-	Odin
-	Kytes
-Al-Cid
-	Zidane
-	Edgar
-King
-	Dusk
-	Gabranth
-Reddas
-	Ghis
-	Zeid
-Fusoya
-	Ashe
-	Marche
-Fran
-	TG Orlandeau
-	Bartz
-Luna
-	Tseng
-	Aphmau
-Snow
-	Iroha
-	Nichol
-Penelo
-	Prishe
-	Cu Chaspel
-Setzer
-	Seymour
-	White Mage
-Cor
-	Gau
-	Kimahri
-Tidus
-	Cissnei
-	Sabin
-Quina
-	Vivi
-	Ardyn
-Bergan
-	Leblanc
-	Shelke
-Fuhito
-	Airy
-	Hope
-
-	BRACKET 7:
-Ace
-	Genesis
-	Umaro
-Jessie
-	Glauca
-	Ultros
-Materia
-	Tonbetty
-	Gestahl
-Celes
-	The Deathlord
-	Shara
-Cid Haze
-	Rude
-	Ra Devil
-Linaly
-	Lenna
-	Ciaran
-Gilgamesh
-	Yeul
-	Tiz
-Edea
-	Reynn
-	Ursula
-Seven
-	Galuf
-	Cid Pollendina
-Tellah
-	Filo
-	Edea
-Sice
-	Edward
-	Lasswell
-Haurchefant Greystone
-	Yang
-	Gogo
-Quistis
-	Desch
-	Spiritus
-Sara Altney
-	Ricard
-	Cait Sith
-Beatrix
-	Nyx
-	Guy
-Adventurer
-	Elgo
-	Princess Sarah
-
-
-	BRACKETS:
-
-
-	BRACKET 0:
-Alexander
-	Krile
-	Rikku
-Lightning
-	Deuce
-	Crowe
-Rosencrantz
-	Rude
-	Ashe
-Dusk
-	Leviathan
-	Garland
-Lumina
-	Jihl
-	Vayne
-Jecht
-	Tristam
-	Rain
-Ashura
-	Thancred
-	Ringabel
-Auron
-	Cid Haze
-	Sakura
-Qun'mi
-	Squall
-	Red XIII
-Lulu
-	Darklord Craydall
-	Golbez
-Zemus
-	Luna
-	Luneth
-Jenova
-	Chocolina
-	Vossler
-Sephiroth
-	Beatrix
-	Celestia
-Josef
-	Yuna
-	Reno
-Glauca
-	Cyan
-	Regis
-Onion Knight
-	Exdeath
-	Sarah
-
-	BRACKET 1:
-Callo
-	Lion
-	Barbariccia
-Jegran
-	Hojo
-	Blank
-Noctis
-	Ursula
-	Shantotto
-Marcus
-	Rosa
-	King Leo
-Kuja
-	Cloud of Darkness
-	Snow
-Ingus
-	Freya
-	Azul
-Bergan
-	Sara Altney
-	Meia
-Rem
-	Serah
-	Arc
-Emperor Mateus
-	Umaro
-	Lann
-Cissnei
-	Leonora
-	Laguna
-Cosmos
-	Rufus
-	Volg
-Shelke
-	Ifrit
-	Garland
-Irvine
-	Warrior
-	Garland
-Rinoa
-	Yang
-	Cinque
-Shinryu
-	Edea
-	Typhon
-Libertus
-	Mira
-	Raem
-
-	BRACKET 2:
-Y'shtola
-	Leila
-	Aranea
-Amarant
-	Barret
-	TG Orlandeau
-Bahamut
-	Balthier
-	Chocobo
-Tseng
-	Marche
-	Papalymo
-Queen
-	Ramza
-	Zeid
-Guy
-	Tifa
-	Rosso
-Porom
-	Cid Raines
-	Noel
-Cid nan Garlond
-	Marilith
-	Delita
-Ghis
-	Tidus
-	Mog
-Fusoya
-	Shadow
-	Eald'narche
-Galdes
-	Bergan
-	Echo
-Caius
-	Bergan
-	Wol
-Edge
-	Odin
-	Arecia
-Faris
-	Seven
-	Paine
-Joker
-	Zargabaath
-	Leblanc
-Strago
-	Rydia
-	Drace
-
-	BRACKET 3:
-Bergan
-	Setzer
-	Adventurer
-Refia
-	Maria
-	Luche
-Trey
-	Larkeicus
-	Denys
-Anne
-	Jake
-	Tiz
-Materia
-	Hurdy
-	Magnolia
-Brandelis
-	Minwu
-	Benjamin
-Nero
-	Ramuh
-	Yew
-Edea
-	Al-Cid
-	Chaos
-White Mage
-	John
-	Machina
-Vincent
-	Firion
-	Layle
-Ovelia
-	Cater
-	Sydney
-Bartz
-	Monk
-	Xagor
-Apollo
-	Legendary Turk
-	Mikoto
-Asura
-	Black Mage
-	Relm
-Dark Lord
-	Cid Highwind
-	Prompto
-Penelo
-	Ysayle Dangoulain
-	Julius
-
-	BRACKET 4:
-Ignis
-	Gestahl
-	Fuji
-Sumo
-	Jusqua
-	Fiona
-Adelle
-	Artimecion
-	Miyu Kagerohi
-Garnet
-	Mewt
-	Ultros
-Llyud
-	Cid Randell
-	Eiko
-Elgo
-	Tonbetty
-	Ultima
-Segwarides
-	Gaius
-	Agrias
-Mog
-	Marshal Cid
-	Sazh
-Dark King
-	Kimahri
-	Ra Devil
-Brandt
-	Airy
-	Reuben
-Plumed Knight
-	Cid Pollendina
-	Gabranth
-Belle
-	Caetuna
-	Illua
-Yuri
-	Red Mage
-	Tonogiri
-Ciaran
-	Zargabaath
-	Lazard
-Reddas
-	Locke
-	Yunita
-Zack
-	Wrieg
-	Hope
-
-	BRACKET 5:
-Sherlotta
-	Aemo
-	Luso
-Aki
-	Morrow
-	Steiner
-Cindy
-	Nichol
-	Marlene
-Angeal
-	Zidane
-	Lasswell
-Beowulf
-	Alma
-	Tiz
-Frimelda
-	Leon
-	Nimbus
-Minfilia
-	Tonberry
-	Jessie
-Quistis
-	Emina
-	Jack
-Nine
-	Diva
-	Agnes
-Warrior of Light
-	Eight
-	Ultimecia
-Hein
-	Sice
-	Alphinaud
-Ace
-	Arthur
-	Reynn
-Shara
-	Mog
-	Diana
-Selphie
-	Celes
-	Ardyn
-Larsa
-	Isis
-	Cid Sophiar
-Nyx
-	Zell
-	Shadow Lord
-
-	BRACKET 6:
-Genesis
-	Fina
-	Cor
-Ashley
-	Haurchefant Greystone
-	Aria
-Aymeric de Borel
-	Seifer
-	Ghis
-King
-	Sol
-	Hraesvelgr
-Biggs and Wedge
-	Aire
-	Good King Moggle Mog
-Bhunivelze
-	Kaze
-	Quickthinx Allthoughts
-Cu Chaspel
-	Basch
-	Yeul
-Rygdea
-	Wandering Minstrel
-	Headmaster Cid
-Fang
-	Veritas
-	Dysley
-Desch
-	Cait Sith
-	Yaag
-Cecil
-	Vanille
-	Montblanc
-Gogo
-	Filo
-	Guildenstern
-The Deathlord
-	Fran
-	Kadaj
-Quina
-	Kefka
-	Vaan
-Yda
-	Meliadoul
-	Lilisette
-Gau
-	Dycedarg
-	Iroha
-
-	BRACKET 7:
-Cloud
-	Iris
-	Seymour
-Lenna
-	Gladiolus
-	Wakka
-Vivi
-	Fuhito
-	Nael
-Galuf
-	Elfe
-	Kurasame
-Dr. Cid
-	Nacht
-	Leo
-Kytes
-	Chaos
-	Edgar
-Spiritus
-	Terra
-	Drace
-Linaly
-	Enuo
-	Masked Woman
-Lid
-	Croma
-	Gilgamesh
-Venat
-	Ceodore
-	Creator
-Palom
-	Aphmau
-	Cid
-Shirma
-	Tellah
-	Prishe
-Tama
-	Edward
-	Rubicante
-Qator
-	Aeris
-	Kain
-Sabin
-	Princess Sarah
-	Ricard
-Thief
-	Weiss
-	Yuffie
-
-
-	BRACKETS:
-
-
-	BRACKET 0:
-Emperor Mateus
-	Artimecion
-	Cait Sith
-Quickthinx Allthoughts
-	Lightning
-	Garland
-Mikoto
-	Cid Randell
-	Ursula
-Vincent
-	Nine
-	Leviathan
-Fang
-	Monk
-	Sephiroth
-Jecht
-	Cinque
-	Sherlotta
-Llyud
-	Hope
-	Cissnei
-Larsa
-	Delita
-	Celes
-Eight
-	Auron
-	Marcus
-Lulu
-	Fiona
-	Alma
-Cindy
-	Tonbetty
-	Gau
-Isis
-	Tonberry
-	Quistis
-Zack
-	Enuo
-	Palom
-Yda
-	Zidane
-	Yuna
-Sol
-	Tellah
-	Sice
-Edea
-	Hojo
-	Golbez
-
-	BRACKET 1:
-Kytes
-	Bergan
-	Red XIII
-Arecia
-	Typhon
-	Blank
-Odin
-	Rubicante
-	Dr. Cid
-Elgo
-	Cloud
-	Venat
-Mog
-	Marilith
-	Rain
-Azul
-	Freya
-	Qator
-Wandering Minstrel
-	Beowulf
-	Tama
-Exdeath
-	Cater
-	King Leo
-Sazh
-	Prompto
-	Barbariccia
-Agnes
-	Laguna
-	Onion Knight
-Fina
-	Drace
-	Bahamut
-Elfe
-	Rosa
-	Garland
-Spiritus
-	Sabin
-	Rydia
-Snow
-	Rem
-	Rinoa
-Asura
-	Marche
-	Mog
-Shelke
-	Warrior
-	Montblanc
-
-	BRACKET 2:
-Ghis
-	Jegran
-	Porom
-Aranea
-	Relm
-	Barret
-Tseng
-	Zargabaath
-	Diana
-Drace
-	Papalymo
-	Anne
-Edea
-	Leo
-	Celestia
-Queen
-	Tifa
-	Desch
-Guildenstern
-	Airy
-	Lenna
-Ashley
-	Yang
-	Ghis
-Seven
-	Arthur
-	Eald'narche
-Hein
-	Dark King
-	Shadow
-Setzer
-	Apollo
-	Joker
-Callo
-	Aire
-	Creator
-Darklord Craydall
-	Fuji
-	Edward
-Sumo
-	John
-	Faris
-Luso
-	Edgar
-	Bergan
-Zemus
-	Shara
-	Thief
-
-	BRACKET 3:
-Iris
-	Krile
-	Ultima
-Ultros
-	Brandt
-	Refia
-Fusoya
-	Meliadoul
-	Xagor
-Galuf
-	Seifer
-	TG Orlandeau
-Agrias
-	Vossler
-	Weiss
-Yew
-	Minwu
-	Noctis
-Sarah
-	Rygdea
-	Tiz
-Chaos
-	Prishe
-	Minfilia
-Mog
-	Brandelis
-	Y'shtola
-Umaro
-	Firion
-	Strago
-Segwarides
-	Garland
-	Cosmos
-Meia
-	Ifrit
-	Edge
-Reuben
-	Reynn
-	Cid Pollendina
-Bartz
-	Kuja
-	Black Mage
-Galdes
-	Ringabel
-	Tristam
-Masked Woman
-	Jenova
-	Vivi
-
-	BRACKET 4:
-Yunita
-	Plumed Knight
-	Zell
-Serah
-	Sara Altney
-	Raem
-Sakura
-	Ciaran
-	Ashe
-White Mage
-	Penelo
-	Aemo
-Rosencrantz
-	Cid Haze
-	Morrow
-Good King Moggle Mog
-	Adventurer
-	Veritas
-Sydney
-	Jake
-	Tiz
-Nichol
-	Arc
-	Mewt
-Jihl
-	Julius
-	Lid
-Genesis
-	Lasswell
-	Aeris
-Kaze
-	Alphinaud
-	Vayne
-Jessie
-	Beatrix
-	Materia
-Deuce
-	Nero
-	Miyu Kagerohi
-Nimbus
-	Leblanc
-	Dycedarg
-Iroha
-	Marshal Cid
-	Noel
-Cecil
-	King
-	Kurasame
-
-	BRACKET 5:
-Trey
-	Magnolia
-	Adelle
-Lion
-	Benjamin
-	Dusk
-Ardyn
-	Tonogiri
-	Gogo
-Terra
-	Ingus
-	Cid Sophiar
-Regis
-	Crowe
-	Zargabaath
-Rufus
-	Rosso
-	Glauca
-Nyx
-	Jack
-	Quina
-Yuri
-	Cloud of Darkness
-	Cor
-Wrieg
-	Libertus
-	Luna
-Jusqua
-	Yuffie
-	Gladiolus
-Echo
-	Ignis
-	Rude
-Leon
-	Ysayle Dangoulain
-	Shirma
-Haurchefant Greystone
-	Ultimecia
-	Qun'mi
-Alexander
-	Gaius
-	Denys
-Nacht
-	Chocolina
-	Hraesvelgr
-Dark Lord
-	Selphie
-	Nael
-
-	BRACKET 6:
-Cid nan Garlond
-	Larkeicus
-	Bhunivelze
-Bergan
-	Biggs and Wedge
-	Lumina
-Ashura
-	Yeul
-	Mira
-Diva
-	Paine
-	Dysley
-Belle
-	Yaag
-	Wakka
-Eiko
-	Frimelda
-	Vanille
-Cu Chaspel
-	Machina
-	Filo
-Al-Cid
-	Gilgamesh
-	Shadow Lord
-Gabranth
-	Hurdy
-	Luche
-Bergan
-	The Deathlord
-	Reddas
-Basch
-	Ricard
-	Layle
-Aki
-	Red Mage
-	Fran
-Kimahri
-	Volg
-	Balthier
-Headmaster Cid
-	Vaan
-	Luneth
-Lilisette
-	Rikku
-	Aymeric de Borel
-Cid Raines
-	Illua
-	Zeid
-
-	BRACKET 7:
-Lann
-	Seymour
-	Shantotto
-Chaos
-	Amarant
-	Emina
-Marlene
-	Garnet
-	Kadaj
-Fuhito
-	Caius
-	Ace
-Ceodore
-	Aphmau
-	Legendary Turk
-Ramuh
-	Steiner
-	Lazard
-Princess Sarah
-	Gestahl
-	Wol
-Locke
-	Squall
-	Kefka
-Cyan
-	Caetuna
-	Ra Devil
-Thancred
-	Tidus
-	Linaly
-Leonora
-	Ramza
-	Angeal
-Ovelia
-	Reno
-	Aria
-Cid Highwind
-	Josef
-	Irvine
-Shinryu
-	Leila
-	Kain
-Croma
-	Guy
-	Chocobo
-Maria
-	Cid
-	Warrior of Light
+Elfe - BC7
+	Sakura - BE
+	Relm - VI
+Shirma - Choco
+	Shadow Lord - XI
+	Lazard - CC7
+Gestahl - VI
+	Luche - Kg15
+	Beowulf - T
+Vanille - XIII
+	Odin - IV
+	Celes - VI
+Ysayle Dangoulain - XIV
+	Wakka - X
+	Locke - VI
+Sol - D
+	Zargabaath - XII
+	Terra - VI
+Ra Devil - LotC
+	Sumo - FFA
+	Eiko - IX
+Linaly - LotC
+	Cloud - VII
+	Ignis - XV
+Ursula - TAY
+	Aphmau - XI
+	Kuja - IX
+Yaag - XIII
+	Tellah - IV
+	Rosso - DC7
+Lilisette - XI
+	Ramza - T
+	Edward - IV
+Legendary Turk - BC7
+	Dr. Cid - XII
+	Kain - IV
+Cecil - IV
+	Cait Sith - VII
+	Ultima - T
+Aria - III
+	Agrias - T
+	Zell - VIII
+Ardyn - XV
+	Desch - III
+	Kytes - RW
+Headmaster Cid - VIII
+	Dusk - D
+	Warrior of Light - DFF
 
 
