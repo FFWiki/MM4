@@ -1,0 +1,384 @@
+White Mage [I]
+Black Mage [I] 32
+Red Mage [I] 128
+Warrior [I] 64
+Thief [I]
+Monk [I]
+Chaos [I] 128
+Garland [I] 64
+Princess Sarah [I]
+Marilith [I] 128
+Warrior of Light [DFF] NEW
+Firion [II] 32
+Leon [II]
+Guy [II]
+Maria [II] FAIL
+Ricard [II]
+Leila [II]
+Josef [II]
+Minwu [II] 32
+Emperor Mateus [II] 64
+Ingus [III]
+Refia [III] 32
+Arc [III] 64
+Luneth [III] 128
+Onion Knight [DFF] 128
+Cloud of Darkness [III] 64
+Sara Altney [III]
+Desch [III]
+Aria [III]
+Cid Haze [III] FAIL*
+Cecil [IV] 16
+Kain [IV]
+Rydia [IV] 64
+Yang [IV]
+Edge [IV]
+Edward [IV]
+Tellah [IV]
+Fusoya [IV] 128
+Palom [IV]
+Porom [IV] 128
+Rosa [IV] 64
+Cid Pollendina [IV]
+Golbez [IV]
+Zemus [IV]
+Rubicante [IV] 128
+Barbariccia [IV] 64
+Ceodore [TAY]
+Leonora [TAY]
+Ursula [TAY]
+Bartz [V] 64
+Lenna [V] 64
+Krile [V] 128
+Faris [V] 32
+Galuf [V] 64
+Gilgamesh [V] 4
+Exdeath [V] 64
+Enuo [V] 128
+Linaly [LotC]
+Ra Devil [LotC]
+Terra [VI] MMII
+Locke [VI]
+Celes [VI] 2
+Mog [VI] 64
+Umaro [VI] 128
+Cyan [VI] 128
+Edgar [VI] 16
+Sabin [VI] 8
+Shadow [VI] 32
+Relm [VI] 128
+Strago [VI]
+Gau [VI] 128
+Gogo [VI] 128
+Setzer [VI] 16
+Leo [VI]
+Kefka [VI] 16
+Gestahl [VI]
+Ultros [VI] 128
+Typhon [VI] 128
+Biggs and Wedge [VI] 128
+Cloud [VII] 64
+Tifa [VII] 32
+Barret [VII] 32
+Aeris [VII] 16
+Red XIII [VII] 64
+Yuffie [VII] 128
+Cid Highwind [VII] 128
+Vincent [VII]
+Cait Sith [VII]
+Sephiroth [VII] 64
+Hojo [VII] 64
+Jenova [VII] 64
+Zack [VII] 64
+Rufus [VII] 128
+Tseng [VII] 128
+Reno [VII] 128
+Rude [VII] 128
+Jessie [VII] NEW
+Marlene [VII] 128
+Genesis [CC7]
+Lazard [CC7]
+Angeal [CC7] 128
+Cissnei [CC7] 128
+Kadaj [AC7] FAIL
+Legendary Turk [BC7] NEW
+Elfe [BC7] NEW
+Fuhito [BC7] NEW
+Shelke [DC7]
+Squall [VIII] 64
+Irvine [VIII]
+Rinoa [VIII] 32
+Quistis [VIII] 64
+Zell [VIII] 128
+Selphie [VIII] 128
+Laguna [VIII] 32
+Edea [VIII]
+Seifer [VIII]
+Ultimecia [VIII]
+Headmaster Cid [VIII] 128
+Zidane [IX] MMIII
+Garnet [IX]
+Vivi [IX] MMI
+Steiner [IX]
+Quina [IX]
+Freya [IX] 32
+Amarant [IX]
+Eiko [IX] 128
+Blank [IX] 32
+Marcus [IX] 128
+Beatrix [IX] 8
+Kuja [IX] 8
+Garland [IX] 128
+Mikoto [IX] 128
+Artimecion [IX] 128
+Cid [IX] 128
+Tidus [X]
+Auron [X] 64
+Yuna [X] 32
+Lulu [X] 32
+Rikku [X] 64
+Wakka [X]
+Kimahri [X]
+Seymour [X]
+Jecht [X] 32
+Paine [X2] 64
+Leblanc [X2]
+Shantotto [XI] 128
+Prishe [XI]
+Eald'narche [XI] FAIL
+Iroha [XI] NEW
+Shadow Lord [XI] FAIL
+Zeid [XI] NEW
+Lion [XI] NEW
+Lilisette [XI]
+Aphmau [XI] NEW
+Vaan [XII]
+Penelo [XII] 128
+Balthier [XII] 4
+Fran [XII]
+Ashe [XII] 16
+Basch [XII] 16
+Reddas [XII]
+Larsa [XII] 64
+Vossler [XII] 128
+Vayne [XII] 64
+Gabranth [XII] 8
+Dr. Cid [XII] 128
+Venat [XII] 128
+Al-Cid [XII]
+Kytes [RW]
+Filo [RW]
+Llyud [RW]
+Lightning [XIII] 32
+Sazh [XIII] 128
+Hope [XIII] 128
+Snow [XIII]
+Vanille [XIII]
+Fang [XIII] 64
+Jihl [XIII]
+Yaag [XIII]
+Dysley [XIII]
+Serah [XIII]
+Rygdea [XIII]
+Cid Raines [XIII] FAIL
+Noel [XIII2]
+Caius [XIII2]
+Yeul [XIII2]
+Chocolina [XIII2] NEW
+Lumina [LR] NEW
+Bhunivelze [LR] NEW
+Papalymo [XIV]
+Cid nan Garlond [XIV] NEW
+Y'shtola [XIV] 128
+Minfilia [XIV] NEW
+Thancred [XIV] NEW
+Yda [XIV] NEW
+Alphinaud [XIV] NEW
+Good King Moggle Mog [XIV] NEW
+Nael [XIV] NEW
+Hraesvelgr [XIV] NEW
+Gaius [XIV]
+Aymeric de Borel [XIV] NEW
+Haurchefant Greystone [XIV] NEW
+Ysayle Dangoulain [XIV] NEW
+Quickthinx Allthoughts [XIV] NEW
+Noctis [XV] 128
+Prompto [XV]
+Ignis [XV]
+Gladiolus [XV]
+Luna [XV] NEW
+Iris [XV] NEW
+Cor [XV] NEW
+Aranea [XV] NEW
+Nyx [Kg15] NEW
+Glauca [Kg15] NEW
+Crowe [Kg15] NEW
+Libertus [Kg15] NEW
+Luche [Kg15] NEW
+Regis [XV] NEW
+Cid Sophiar [XV] NEW
+Cindy [XV] NEW
+Ardyn [XV] NEW
+Sol [D] 128
+Nacht [D] FAIL
+Dusk [D]
+Diana [D]
+Elgo [D] NEW
+Aki [TSW] 128
+Hein [TSW]
+Ace [T0]
+Deuce [T0]
+Trey [T0]
+Cater [T0]
+Cinque [T0] 128
+Sice [T0]
+Seven [T0]
+Eight [T0]
+Nine [T0]
+Jack [T0]
+Queen [T0]
+King [T0]
+Machina [T0]
+Rem [T0]
+Tonberry [T0] NEW
+Marshal Cid [T0] NEW
+Qun'mi [T0] NEW
+Nimbus [T0] NEW
+Qator [T0] NEW
+Diva [T0] NEW
+Kurasame [T0] NEW
+Emina [T0] NEW
+Arecia [T0] NEW
+Joker [T0] NEW
+Tiz [T0] NEW
+Celestia [T0] NEW
+Tonogiri [T0] NEW
+Caetuna [T0] NEW
+Miyu Kagerohi [Agito] NEW
+Cosmos [DFF] 128
+Materia [DFF] NEW
+Spiritus [DFF] NEW
+Kaze [FFU]
+Rain [BE] NEW
+Lasswell [BE] NEW
+Fina [BE] NEW
+Lid [BE] NEW
+Nichol [BE] NEW
+Jake [BE] NEW
+Sakura [BE] NEW
+Veritas [BE] NEW
+Morrow [L2] NEW
+Aemo [L2] NEW
+Wrieg [L2] NEW
+The Deathlord [L2] NEW
+Brandt [T4HoL] FAIL
+Jusqua [T4HoL] FAIL
+Yunita [T4HoL]
+Aire [T4HoL]
+Adventurer [T4HoL] NEW
+Ciaran [CC] NEW
+Fiona [CC] NEW
+Raem [CC]
+Yuri [RoF]
+Cu Chaspel [RoF] FAIL
+Galdes [RoF] FAIL
+Sherlotta [EoT] FAIL
+Larkeicus [EoT] FAIL
+Layle [TCB] FAIL
+Belle [TCB]
+Jegran [TCB] FAIL
+King Leo [MLaaK] FAIL
+Darklord Craydall [MLaaK] FAIL
+Mira [MLaaD] FAIL
+Tonbetty [MLaaD] 128
+Reynn [WoFF] NEW
+Lann [WoFF] NEW
+Tama [WoFF] NEW
+Segwarides [WoFF] NEW
+Plumed Knight [WoFF] NEW
+Masked Woman [WoFF] NEW
+Brandelis [WoFF] NEW
+Benjamin [MQ]
+Tristam [MQ]
+Reuben [MQ]
+Dark King [MQ]
+Wol [Mobius] NEW
+Meia [Mobius] NEW
+Echo [Mobius] NEW
+Garland [Mobius] NEW
+Mog [Mobius] NEW
+Chaos [Mobius] NEW
+Sarah [Mobius] NEW
+Agrias [T]
+Alma [T] 128
+Dycedarg [T]
+TG Orlandeau [T]
+Ovelia [T] 128
+Ramza [T] 128
+Beowulf [T]
+Delita [T] 128
+Meliadoul [T]
+Ultima [T]
+Marche [TA]
+Montblanc [TA]
+Cid Randell [TA]
+Shara [TA]
+Mewt [TA]
+Luso [TA2]
+Hurdy [TA2] 128
+Adelle [TA2]
+Frimelda [TA2]
+Illua [TA2]
+Chocobo [Choco] 128
+Mog [Choco] 64
+Shirma [Choco] 128
+Croma [Choco]
+Volg [Choco]
+Sumo [FFA] NEW
+Fuji [FFA] NEW
+Julius [FFA] NEW
+Dark Lord [FFA] NEW
+Ashura [SaGa1] NEW
+Creator [SaGa1] NEW
+Apollo [SaGa2] NEW
+Isis [SaGa2] NEW
+Arthur [SaGa3] NEW
+Xagor [SaGa3] NEW
+Ashley [VS] NEW
+Sydney [VS] NEW
+Callo [VS] NEW
+John [VS] NEW
+Rosencrantz [VS] NEW
+Guildenstern [VS] NEW
+Tiz [BD] NEW
+Agnes [BD] NEW
+Ringabel [BD] NEW
+Edea [BD] NEW
+Airy [BD] NEW
+Yew [BS] NEW
+Magnolia [BS] NEW
+Anne [BS] NEW
+Denys [BS] NEW
+Rosso [DC7] FAIL
+Azul [DC7] FAIL
+Nero [DC7] FAIL
+Weiss [DC7] FAIL
+Bergan [XII] NEW
+Drace [XII] NEW
+Zargabaath [XII] NEW
+Bergan [XII] NEW
+Ghis [XII] NEW
+Shinryu [DFF] 128
+Ifrit [V] 128
+Bahamut [I] 16
+Leviathan [IV] 64
+Odin [IV] NEW
+Asura [IV] NEW
+Ramuh [IX] NEW
+Alexander [XIV] 64
+Bergan [XII] NEW
+Drace [XII] NEW
+Zargabaath [XII] NEW
+Bergan [XII] NEW
+Ghis [XII] NEW
+Wandering Minstrel [XIV] NEW

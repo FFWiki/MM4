@@ -1,0 +1,3636 @@
+	BRACKETS:
+
+
+	BRACKET 0:
+Kefka
+	Alexander
+	Azul
+Lightning
+	Bhunivelze
+	Cor
+Fusoya
+	Leila
+	Enuo
+Mog
+	Materia
+	Leviathan
+Fang
+	Julius
+	Auron
+Jecht
+	Aphmau
+	Bergan
+Krile
+	Brandelis
+	Cinque
+Mog
+	Vayne
+	Eald'narche
+Weiss
+	Paine
+	Ingus
+Nichol
+	Lulu
+	Agnes
+Haurchefant Greystone
+	Plumed Knight
+	Garland
+John
+	Apollo
+	Rikku
+Ace
+	Squall
+	Shadow Lord
+Venat
+	Yuna
+	Jack
+Iroha
+	Fiona
+	Tonbetty
+Sol
+	Red Mage
+	Jenova
+
+	BRACKET 1:
+Barbariccia
+	Ramuh
+	White Mage
+Yda
+	Blank
+	Ultros
+Kain
+	Delita
+	Shinryu
+Illua
+	Sara Altney
+	Rosa
+Larkeicus
+	Cloud of Darkness
+	Eiko
+Tseng
+	Mira
+	Freya
+Zell
+	Chaos
+	Thancred
+Zeid
+	Leonora
+	Artimecion
+Zargabaath
+	Anne
+	Edge
+Laguna
+	Ashura
+	Ramza
+Asura
+	Tellah
+	Sherlotta
+Fran
+	Trey
+	Odin
+Reddas
+	Ghis
+	Magnolia
+Rinoa
+	Rosso
+	Kytes
+Bergan
+	Filo
+	Libertus
+Yuffie
+	Zargabaath
+	Cecil
+
+	BRACKET 2:
+Bergan
+	Guildenstern
+	Arc
+Fuhito
+	Barret
+	Cid Haze
+Yew
+	TG Orlandeau
+	Mewt
+Airy
+	Thief
+	Seven
+Denys
+	Ringabel
+	Strago
+Umaro
+	Tifa
+	Qun'mi
+Rosencrantz
+	Segwarides
+	Cissnei
+Callo
+	Diana
+	Linaly
+Shelke
+	Rem
+	Sydney
+Shadow
+	Kurasame
+	Tama
+Xagor
+	Biggs and Wedge
+	Layle
+Leblanc
+	Reynn
+	Isis
+Sumo
+	Deuce
+	Prishe
+Faris
+	Cid
+	Warrior
+Volg
+	Legendary Turk
+	Leo
+Chocobo
+	Frimelda
+	Prompto
+
+	BRACKET 3:
+Ifrit
+	Adelle
+	Quistis
+Ovelia
+	Refia
+	Tiz
+Luso
+	Gau
+	Larsa
+Cid Randell
+	Luneth
+	Mog
+Marche
+	Steiner
+	Selphie
+Minwu
+	Cu Chaspel
+	Exdeath
+Dycedarg
+	Fina
+	Celes
+Agrias
+	Rubicante
+	Onion Knight
+Terra
+	Emina
+	Meia
+Firion
+	Morrow
+	Hope
+Lazard
+	Wol
+	Wrieg
+Luche
+	Zack
+	Dark King
+Tristam
+	Queen
+	Nero
+Black Mage
+	Ysayle Dangoulain
+	Dark Lord
+Garland
+	Benjamin
+	Bahamut
+Nimbus
+	Masked Woman
+	Rude
+
+	BRACKET 4:
+Headmaster Cid
+	Belle
+	Desch
+Lasswell
+	Raem
+	Marshal Cid
+Cater
+	Cid nan Garlond
+	Adventurer
+Yunita
+	Leon
+	Ashe
+Aemo
+	Jegran
+	Cindy
+Elgo
+	Sakura
+	Ultima
+Rain
+	Typhon
+	Palom
+Kaze
+	Nacht
+	Luna
+Miyu Kagerohi
+	Lid
+	Edea
+Celestia
+	Sice
+	Llyud
+Tiz
+	Relm
+	Aeris
+Joker
+	Crowe
+	Bartz
+Gladiolus
+	Locke
+	Arecia
+Red XIII
+	Tonberry
+	Dysley
+Caetuna
+	King
+	Gabranth
+Edward
+	Nine
+	Veritas
+
+	BRACKET 5:
+Porom
+	Hojo
+	Hein
+Ignis
+	Dusk
+	Hraesvelgr
+Marilith
+	Ardyn
+	Meliadoul
+Fuji
+	Vossler
+	Glauca
+Cyan
+	Nyx
+	Eight
+Wakka
+	Aire
+	Aranea
+Galuf
+	Reuben
+	Iris
+Ghis
+	Quickthinx Allthoughts
+	Darklord Craydall
+Noctis
+	Monk
+	Aymeric de Borel
+Gaius
+	Rydia
+	Beowulf
+Ciaran
+	Nael
+	Dr. Cid
+Good King Moggle Mog
+	Emperor Mateus
+	Rygdea
+Jusqua
+	Alphinaud
+	Cosmos
+Minfilia
+	Sarah
+	Marcus
+Papalymo
+	Marlene
+	Cid Pollendina
+Aki
+	Montblanc
+	Lumina
+
+	BRACKET 6:
+Cid Sophiar
+	Chocolina
+	Rufus
+Kadaj
+	Yeul
+	Angeal
+Noel
+	Bergan
+	Ashley
+King Leo
+	Serah
+	Shirma
+Vanille
+	Regis
+	Yuri
+Basch
+	Shara
+	Tidus
+Caius
+	Balthier
+	Ricard
+Drace
+	Croma
+	Vaan
+Machina
+	Echo
+	Lilisette
+Princess Sarah
+	Seymour
+	Lann
+Lion
+	Jake
+	Beatrix
+Ultimecia
+	Amarant
+	Kimahri
+Drace
+	Quina
+	Maria
+Sephiroth
+	Seifer
+	Spiritus
+Jihl
+	Reno
+	Edea
+Cait Sith
+	Kuja
+	Irvine
+
+	BRACKET 7:
+Hurdy
+	Elfe
+	Creator
+Vivi
+	Genesis
+	Lenna
+Alma
+	Galdes
+	Jessie
+Arthur
+	Vincent
+	Snow
+Wandering Minstrel
+	Garnet
+	Gestahl
+Setzer
+	Brandt
+	Y'shtola
+Sabin
+	Gilgamesh
+	Shantotto
+Yaag
+	Cloud
+	Edgar
+Diva
+	Ra Devil
+	Gogo
+Penelo
+	Ceodore
+	Al-Cid
+Mikoto
+	Zemus
+	Qator
+Ursula
+	The Deathlord
+	Golbez
+Zidane
+	Yang
+	Garland
+Aria
+	Sazh
+	Warrior of Light
+Josef
+	Tonogiri
+	Chaos
+Cid Highwind
+	Guy
+	Cid Raines
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Warrior
+	Brandt
+	Cissnei
+Leblanc
+	Balthier
+	Lightning
+Aire
+	Rikku
+	Penelo
+Gabranth
+	Alexander
+	Leviathan
+Rydia
+	Cid Pollendina
+	Mog
+Zack
+	Jecht
+	Lenna
+Auron
+	Marlene
+	Relm
+Fang
+	Ardyn
+	Guy
+Cor
+	Larsa
+	Magnolia
+Alphinaud
+	Noel
+	Lulu
+Ultimecia
+	Reynn
+	Chocobo
+Leon
+	Paine
+	Mog
+Artimecion
+	Red XIII
+	Layle
+Libertus
+	Dr. Cid
+	Yuna
+Y'shtola
+	Ringabel
+	Reno
+Mog
+	Jusqua
+	Masked Woman
+
+	BRACKET 1:
+Typhon
+	Exdeath
+	Kain
+Vayne
+	Blank
+	Cait Sith
+Onion Knight
+	Delita
+	Nine
+Cinque
+	Galuf
+	Ace
+Arc
+	Aphmau
+	Wol
+Freya
+	Lilisette
+	Angeal
+Fina
+	Guildenstern
+	Legendary Turk
+Emperor Mateus
+	Machina
+	Cosmos
+Sol
+	Eiko
+	Diva
+Leonora
+	Amarant
+	Laguna
+Segwarides
+	Chaos
+	Eald'narche
+Adventurer
+	Krile
+	Zell
+Garland
+	Ramza
+	Ramuh
+Darklord Craydall
+	Rinoa
+	Mewt
+Venat
+	Aeris
+	Belle
+Drace
+	King
+	Tonberry
+
+	BRACKET 2:
+Sherlotta
+	Odin
+	Adelle
+Gau
+	Barret
+	Vincent
+Biggs and Wedge
+	Materia
+	Ghis
+Kadaj
+	Yeul
+	Bergan
+Thancred
+	Anne
+	Nero
+Tifa
+	Luche
+	Leila
+Quina
+	Yew
+	Aria
+Jihl
+	Cu Chaspel
+	Edea
+Lumina
+	Ashley
+	Luneth
+Squall
+	Sephiroth
+	Shadow
+Isis
+	Hojo
+	Vaan
+Cid Raines
+	Cyan
+	Apollo
+Irvine
+	Creator
+	Lazard
+Faris
+	Headmaster Cid
+	Callo
+Rosa
+	Frimelda
+	Dark Lord
+Zargabaath
+	Ovelia
+	Sumo
+
+	BRACKET 3:
+Shara
+	Miyu Kagerohi
+	Lid
+Tiz
+	Cid
+	Refia
+Diana
+	Ultima
+	Warrior of Light
+Regis
+	Dycedarg
+	Bahamut
+Fran
+	Illua
+	Garland
+Montblanc
+	Minwu
+	White Mage
+Dark King
+	Wandering Minstrel
+	Cloud
+Reuben
+	Cloud of Darkness
+	Josef
+Benjamin
+	Kytes
+	Seven
+Zargabaath
+	Marche
+	Firion
+Shirma
+	Gladiolus
+	Brandelis
+Wrieg
+	Lann
+	Ifrit
+Emina
+	Denys
+	Fiona
+Larkeicus
+	Black Mage
+	Rude
+Julius
+	Ciaran
+	Shantotto
+Yuffie
+	Yunita
+	Cindy
+
+	BRACKET 4:
+Terra
+	Tristam
+	The Deathlord
+Garland
+	Morrow
+	TG Orlandeau
+Veritas
+	Shadow Lord
+	Sara Altney
+Meliadoul
+	Sakura
+	Iris
+Genesis
+	Asura
+	Nichol
+Drace
+	Rain
+	Lion
+Raem
+	Celestia
+	Sarah
+Tiz
+	Meia
+	Hraesvelgr
+Jake
+	Hope
+	Joker
+Mira
+	Volg
+	Qator
+Nimbus
+	Barbariccia
+	Quickthinx Allthoughts
+Qun'mi
+	Edge
+	Ra Devil
+Rem
+	Enuo
+	Tonogiri
+Cid Highwind
+	Elfe
+	Eight
+Ghis
+	Aki
+	Sice
+Agnes
+	Ignis
+	Cater
+
+	BRACKET 5:
+Lasswell
+	Deuce
+	Vanille
+Dysley
+	Hein
+	Croma
+Trey
+	Elgo
+	Tseng
+Glauca
+	Ingus
+	Sazh
+King Leo
+	Filo
+	Aranea
+Tellah
+	Luna
+	Nacht
+Mikoto
+	Beowulf
+	Gaius
+Beatrix
+	Ultros
+	Nael
+Yuri
+	Good King Moggle Mog
+	Bergan
+Cid Sophiar
+	Yda
+	Arecia
+Minfilia
+	Rufus
+	Bergan
+Cid Randell
+	Marilith
+	Cid nan Garlond
+Aymeric de Borel
+	Bhunivelze
+	Arthur
+Caius
+	Rosso
+	Rubicante
+Airy
+	Dusk
+	Rygdea
+Snow
+	Alma
+	Galdes
+
+	BRACKET 6:
+Ashura
+	Quistis
+	Llyud
+Aemo
+	Bartz
+	Al-Cid
+Umaro
+	Vossler
+	Reddas
+Marcus
+	Ashe
+	Maria
+Iroha
+	Shinryu
+	Vivi
+Prishe
+	Luso
+	Papalymo
+Seymour
+	Porom
+	John
+Edea
+	Kimahri
+	Cid Haze
+Tonbetty
+	Fusoya
+	Tidus
+Garnet
+	Selphie
+	Nyx
+Tama
+	Seifer
+	Prompto
+Kurasame
+	Shelke
+	Serah
+Plumed Knight
+	Caetuna
+	Kefka
+Azul
+	Haurchefant Greystone
+	Leo
+Agrias
+	Crowe
+	Setzer
+Gogo
+	Echo
+	Strago
+
+	BRACKET 7:
+Sabin
+	Yaag
+	Ysayle Dangoulain
+Kuja
+	Queen
+	Edgar
+Celes
+	Spiritus
+	Steiner
+Locke
+	Jenova
+	Hurdy
+Fuhito
+	Ursula
+	Linaly
+Yang
+	Gilgamesh
+	Gestahl
+Zemus
+	Bergan
+	Zeid
+Zidane
+	Golbez
+	Fuji
+Ceodore
+	Palom
+	Sydney
+Noctis
+	Edward
+	Red Mage
+Marshal Cid
+	Cecil
+	Jack
+Basch
+	Weiss
+	Desch
+Wakka
+	Kaze
+	Ricard
+Xagor
+	Princess Sarah
+	Jegran
+Monk
+	Jessie
+	Chaos
+Chocolina
+	Rosencrantz
+	Thief
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Sol
+	Regis
+	Jenova
+Lightning
+	Reynn
+	Rem
+Ramza
+	Drace
+	Dycedarg
+Celestia
+	Fang
+	Leon
+Lann
+	Larsa
+	Isis
+Azul
+	Jecht
+	Cid
+Joker
+	Seven
+	Shadow Lord
+Yda
+	Kuja
+	Quistis
+Squall
+	Maria
+	Y'shtola
+Cosmos
+	Lulu
+	Machina
+Cor
+	Alma
+	Cid Haze
+Biggs and Wedge
+	Zack
+	Alexander
+Jegran
+	Hojo
+	Lilisette
+Lid
+	Yuna
+	Creator
+Selphie
+	Morrow
+	Adelle
+Guildenstern
+	Galuf
+	Desch
+
+	BRACKET 1:
+Gaius
+	Lenna
+	Reno
+Blank
+	Onion Knight
+	Mog
+Emperor Mateus
+	Yunita
+	Angeal
+Arc
+	Aeris
+	Rosa
+Yuffie
+	Auron
+	Cloud of Darkness
+Freya
+	Brandelis
+	Materia
+Sumo
+	Tseng
+	Artimecion
+Garland
+	Vanille
+	King Leo
+Yaag
+	Cid Highwind
+	Bhunivelze
+Paine
+	Laguna
+	Barbariccia
+Garnet
+	TG Orlandeau
+	Bergan
+Asura
+	Aymeric de Borel
+	Tidus
+Jusqua
+	Yew
+	Seymour
+Mikoto
+	Sephiroth
+	Rinoa
+Golbez
+	Shirma
+	Airy
+Gestahl
+	Ringabel
+	Terra
+
+	BRACKET 2:
+Cinque
+	Apollo
+	Callo
+Barret
+	Sydney
+	Al-Cid
+Glauca
+	Ashura
+	Xagor
+Vaan
+	Dark Lord
+	Plumed Knight
+Edea
+	Julius
+	Denys
+Fran
+	Cait Sith
+	Tifa
+Quina
+	Fuji
+	Cloud
+Frimelda
+	Ysayle Dangoulain
+	Ra Devil
+Luso
+	Irvine
+	Nine
+Adventurer
+	Shadow
+	Hraesvelgr
+Sazh
+	Mewt
+	Kefka
+Mira
+	Shara
+	Gogo
+Red Mage
+	Cid Randell
+	Garland
+Mog
+	Faris
+	Fusoya
+Aire
+	Fiona
+	Montblanc
+Rosencrantz
+	Linaly
+	Ultima
+
+	BRACKET 3:
+Layle
+	Anne
+	Meliadoul
+Refia
+	Caius
+	Rain
+Ramuh
+	Steiner
+	Meia
+Wol
+	Basch
+	Hope
+Tiz
+	Dark King
+	Llyud
+Bergan
+	Prompto
+	Minwu
+Benjamin
+	Edge
+	Sakura
+Relm
+	Raem
+	Masked Woman
+Eiko
+	The Deathlord
+	Chaos
+Firion
+	Gabranth
+	Lasswell
+Wakka
+	Veritas
+	Darklord Craydall
+Marcus
+	Strago
+	Jake
+Tonogiri
+	Nichol
+	Setzer
+Typhon
+	Black Mage
+	Ardyn
+Fina
+	Reddas
+	Bartz
+Miyu Kagerohi
+	Gau
+	Leonora
+
+	BRACKET 4:
+Caetuna
+	Luche
+	Illua
+Tiz
+	Celes
+	Bergan
+Bergan
+	Arecia
+	Ovelia
+Magnolia
+	Cid Raines
+	Emina
+Qator
+	Amarant
+	Dysley
+Reuben
+	Marshal Cid
+	Ifrit
+Ultimecia
+	King
+	Tristam
+Rikku
+	Diva
+	Queen
+Wandering Minstrel
+	Iris
+	Jack
+Ciaran
+	Eight
+	Monk
+Sice
+	Yuri
+	Rosso
+Echo
+	Shinryu
+	Trey
+Headmaster Cid
+	Segwarides
+	Deuce
+Warrior
+	Hein
+	Balthier
+Libertus
+	Elgo
+	Nero
+Edward
+	Diana
+	Ceodore
+
+	BRACKET 5:
+Sherlotta
+	Dusk
+	Josef
+Weiss
+	Cindy
+	Delita
+Zargabaath
+	Cid Sophiar
+	Mog
+Noctis
+	Crowe
+	Zargabaath
+Nimbus
+	Aranea
+	Red XIII
+Quickthinx Allthoughts
+	Vossler
+	Kaze
+Leblanc
+	Haurchefant Greystone
+	Cyan
+Exdeath
+	Nael
+	Cater
+Alphinaud
+	Zeid
+	Nyx
+Beowulf
+	Thancred
+	Yang
+Lumina
+	Cid nan Garlond
+	Agnes
+Cu Chaspel
+	Chocolina
+	Wrieg
+Yeul
+	Ingus
+	Aemo
+Venat
+	Good King Moggle Mog
+	Noel
+Aphmau
+	Kimahri
+	Serah
+Ace
+	Jihl
+	Zell
+
+	BRACKET 6:
+Arthur
+	Sarah
+	Snow
+Nacht
+	Aki
+	Filo
+Kytes
+	Tonbetty
+	Luneth
+John
+	Krile
+	Ashe
+Ghis
+	Iroha
+	Tonberry
+Galdes
+	Qun'mi
+	Beatrix
+Vivi
+	Belle
+	Enuo
+Marlene
+	Zidane
+	Spiritus
+Seifer
+	Gladiolus
+	Lion
+Edea
+	Rubicante
+	Legendary Turk
+Rude
+	Elfe
+	Chaos
+Sara Altney
+	Lazard
+	Penelo
+Marilith
+	Brandt
+	Genesis
+Garland
+	Agrias
+	Jessie
+Rufus
+	Vincent
+	Eald'narche
+Kurasame
+	Leo
+	Odin
+
+	BRACKET 7:
+Kadaj
+	Drace
+	Sabin
+Chocobo
+	Minfilia
+	Edgar
+Porom
+	Locke
+	Shelke
+Gilgamesh
+	Umaro
+	Vayne
+Ursula
+	Ghis
+	Bahamut
+Zemus
+	Luna
+	Hurdy
+Cissnei
+	Cid Pollendina
+	Ignis
+Guy
+	Palom
+	Marche
+Tellah
+	Volg
+	Dr. Cid
+Ultros
+	Rydia
+	Kain
+Shantotto
+	Tama
+	Cecil
+Leila
+	Leviathan
+	Ashley
+Ricard
+	White Mage
+	Rygdea
+Fuhito
+	Croma
+	Warrior of Light
+Papalymo
+	Princess Sarah
+	Prishe
+Thief
+	Larkeicus
+	Aria
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Odin
+	Callo
+	Arc
+Lumina
+	Brandelis
+	Lightning
+Shirma
+	Umaro
+	Ringabel
+Sarah
+	Jihl
+	Jenova
+Jake
+	Tellah
+	Leviathan
+Ursula
+	Yunita
+	Jecht
+Legendary Turk
+	Krile
+	Yuffie
+Mog
+	Rydia
+	Bergan
+Headmaster Cid
+	Cid Highwind
+	Fang
+Shara
+	Lulu
+	Belle
+Paine
+	Nero
+	Cinque
+Cindy
+	Quistis
+	Ricard
+Serah
+	Zack
+	Dr. Cid
+Reuben
+	Yuna
+	Jessie
+Chocobo
+	Tseng
+	Mog
+Beowulf
+	Hojo
+	Cosmos
+
+	BRACKET 1:
+Steiner
+	Sephiroth
+	Venat
+Yeul
+	Delita
+	Blank
+Benjamin
+	Vossler
+	Meliadoul
+Vincent
+	Ingus
+	Red XIII
+Fran
+	Rosa
+	Tristam
+Freya
+	Cloud
+	King Leo
+Zell
+	Hraesvelgr
+	Ghis
+Emperor Mateus
+	Ramza
+	Alexander
+Lion
+	Garland
+	Drace
+Bhunivelze
+	Laguna
+	Marche
+Celes
+	Tiz
+	Prompto
+Arecia
+	Machina
+	Cor
+Sydney
+	Ifrit
+	Rygdea
+Rinoa
+	Montblanc
+	Nine
+Nyx
+	Rude
+	Denys
+Yaag
+	Prishe
+	Rufus
+
+	BRACKET 2:
+Guy
+	Cid Pollendina
+	Libertus
+Gau
+	Frimelda
+	Barret
+John
+	Angeal
+	Chocolina
+Larkeicus
+	Crowe
+	Artimecion
+Maria
+	Red Mage
+	Gogo
+Tifa
+	Genesis
+	Croma
+Julius
+	Bartz
+	Wol
+Kytes
+	Darklord Craydall
+	Edgar
+Lenna
+	Zemus
+	Ultros
+Shadow
+	Brandt
+	Chaos
+Cissnei
+	Qun'mi
+	Asura
+Sol
+	Hurdy
+	The Deathlord
+Bergan
+	Shadow Lord
+	Llyud
+Barbariccia
+	Lazard
+	Faris
+Biggs and Wedge
+	Wrieg
+	Ra Devil
+Weiss
+	Eight
+	Alma
+
+	BRACKET 3:
+Aria
+	Aphmau
+	Guildenstern
+Gabranth
+	Diana
+	Refia
+Drace
+	Shinryu
+	Dusk
+Bergan
+	Yuri
+	Illua
+Joker
+	Elgo
+	Bahamut
+Minwu
+	Garnet
+	Exdeath
+Porom
+	Bergan
+	Cid Raines
+Anne
+	Aranea
+	Auron
+Airy
+	Miyu Kagerohi
+	Magnolia
+Firion
+	Warrior of Light
+	Rubicante
+Galuf
+	Snow
+	Edea
+Agnes
+	Xagor
+	Rikku
+Apollo
+	Basch
+	Cait Sith
+Black Mage
+	Ceodore
+	Trey
+Ardyn
+	Marilith
+	Creator
+Hope
+	Tidus
+	Fuji
+
+	BRACKET 4:
+Yda
+	Ultima
+	Volg
+Adelle
+	Aeris
+	Nacht
+Hein
+	Luso
+	King
+Mewt
+	Tama
+	Amarant
+Cid Randell
+	Ashley
+	Terra
+Marlene
+	Setzer
+	Garland
+Tonogiri
+	Meia
+	Veritas
+Lasswell
+	Squall
+	Dark King
+Arthur
+	Masked Woman
+	Cid Haze
+Tonbetty
+	Cater
+	Plumed Knight
+Segwarides
+	Papalymo
+	Mikoto
+Lann
+	Desch
+	Rosencrantz
+Nichol
+	Morrow
+	Raem
+Lid
+	Jusqua
+	Eiko
+Fina
+	Marcus
+	Luneth
+Yew
+	Rain
+	Ultimecia
+
+	BRACKET 5:
+Caetuna
+	Glauca
+	Aire
+Tiz
+	Aemo
+	Cid
+Emina
+	Ace
+	Mog
+Wandering Minstrel
+	Qator
+	Monk
+Nimbus
+	Gladiolus
+	Ciaran
+Marshal Cid
+	Leonora
+	Cid nan Garlond
+Rem
+	Rosso
+	Tonberry
+Jack
+	Edward
+	Celestia
+Seymour
+	Deuce
+	Kefka
+Azul
+	Luche
+	Seven
+Queen
+	Iris
+	Ghis
+Sakura
+	Fuhito
+	Luna
+Ysayle Dangoulain
+	TG Orlandeau
+	Strago
+Selphie
+	Haurchefant Greystone
+	Zargabaath
+Noctis
+	Dycedarg
+	Aymeric de Borel
+Leo
+	Nael
+	Echo
+
+	BRACKET 6:
+Quina
+	Reynn
+	Thancred
+Minfilia
+	Sumo
+	Kurasame
+Alphinaud
+	Sherlotta
+	Dysley
+Typhon
+	Good King Moggle Mog
+	Vanille
+Jegran
+	Filo
+	Agrias
+Josef
+	Gestahl
+	Al-Cid
+Cu Chaspel
+	Beatrix
+	Reddas
+Kaze
+	Ovelia
+	Balthier
+Shelke
+	Zeid
+	Garland
+Sazh
+	Mira
+	Iroha
+Leblanc
+	Larsa
+	Vaan
+Isis
+	Zargabaath
+	Kimahri
+Sara Altney
+	Kuja
+	Shantotto
+Vivi
+	Materia
+	Adventurer
+Zidane
+	Wakka
+	Reno
+Onion Knight
+	Sabin
+	Seifer
+
+	BRACKET 7:
+Edea
+	Lilisette
+	Eald'narche
+Cid Sophiar
+	Irvine
+	Layle
+Elfe
+	Warrior
+	Relm
+Quickthinx Allthoughts
+	Chaos
+	Locke
+Linaly
+	Y'shtola
+	Fusoya
+Fiona
+	Ashura
+	Gilgamesh
+Sice
+	Aki
+	Golbez
+Palom
+	Regis
+	Ashe
+Penelo
+	Edge
+	Dark Lord
+Galdes
+	Ignis
+	Kain
+Cecil
+	Cyan
+	Yang
+Cloud of Darkness
+	Leila
+	Enuo
+Kadaj
+	Leon
+	Diva
+Princess Sarah
+	Spiritus
+	Caius
+Ramuh
+	Thief
+	Noel
+White Mage
+	Gaius
+	Vayne
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Golbez
+	Trey
+	Leviathan
+Bergan
+	Lightning
+	Shadow Lord
+Arecia
+	Yuffie
+	Cosmos
+Rikku
+	Alexander
+	Lazard
+Auron
+	Cindy
+	Isis
+Jecht
+	Lumina
+	Kuja
+Fuji
+	Rubicante
+	Noel
+Mog
+	Hein
+	Quistis
+Zack
+	Galdes
+	Gogo
+Lulu
+	Marlene
+	Adelle
+Sazh
+	Warrior of Light
+	Jenova
+Caius
+	Rosencrantz
+	Red XIII
+Galuf
+	Kain
+	Denys
+Zargabaath
+	Yuna
+	Ifrit
+Tonberry
+	Iris
+	Quina
+Ursula
+	Lenna
+	Luna
+
+	BRACKET 1:
+Prishe
+	Barbariccia
+	Locke
+Legendary Turk
+	Blank
+	Tristam
+Garland
+	Nyx
+	Jack
+Glauca
+	Rosa
+	Ignis
+Callo
+	Warrior
+	Thancred
+Cid Randell
+	Ultima
+	Freya
+Libertus
+	Dr. Cid
+	Gau
+Mira
+	Rude
+	Alma
+Aki
+	Papalymo
+	Filo
+White Mage
+	Laguna
+	Porom
+Chaos
+	Cinque
+	Deuce
+Seven
+	John
+	Bahamut
+Ashe
+	Artimecion
+	Wrieg
+Garland
+	Rinoa
+	Mikoto
+Red Mage
+	Angeal
+	Cecil
+Yuri
+	Headmaster Cid
+	Wandering Minstrel
+
+	BRACKET 2:
+Shantotto
+	Arc
+	Monk
+Barret
+	Marshal Cid
+	TG Orlandeau
+Garnet
+	Diva
+	Mewt
+Hurdy
+	Ghis
+	Sherlotta
+Bergan
+	Sephiroth
+	Zidane
+Tifa
+	Meliadoul
+	Benjamin
+Hojo
+	Bergan
+	Vaan
+Hope
+	Asura
+	Jusqua
+Reno
+	Edgar
+	Odin
+Chocolina
+	Yaag
+	Shadow
+Ghis
+	Josef
+	Noctis
+Tiz
+	Sakura
+	Anne
+Weiss
+	Y'shtola
+	Ringabel
+Miyu Kagerohi
+	Desch
+	Faris
+Agnes
+	Sara Altney
+	Enuo
+Exdeath
+	Arthur
+	Genesis
+
+	BRACKET 3:
+Nacht
+	Creator
+	Nichol
+Edea
+	Shirma
+	Refia
+Sumo
+	Raem
+	Penelo
+Illua
+	Lann
+	Ciaran
+Morrow
+	Frimelda
+	Eiko
+Tseng
+	Minwu
+	Squall
+Venat
+	Shara
+	Ashura
+Montblanc
+	Brandelis
+	Kadaj
+Vayne
+	Beowulf
+	Cloud
+Layle
+	Reddas
+	Firion
+Agrias
+	Bartz
+	Zell
+Guildenstern
+	Dycedarg
+	Sarah
+Mog
+	Gabranth
+	Zeid
+Nine
+	Black Mage
+	Larkeicus
+Apollo
+	Bergan
+	Echo
+Caetuna
+	Meia
+	Cid nan Garlond
+
+	BRACKET 4:
+Rygdea
+	Wol
+	Joker
+Fiona
+	Tiz
+	Leila
+Vossler
+	Airy
+	Aire
+Luneth
+	Vincent
+	Yunita
+The Deathlord
+	Sol
+	Chaos
+Bhunivelze
+	Veritas
+	Reynn
+Dark Lord
+	Tonbetty
+	Jake
+Strago
+	Fina
+	Onion Knight
+Rain
+	Relm
+	Croma
+Qator
+	Ramuh
+	Shinryu
+Cissnei
+	Nimbus
+	Quickthinx Allthoughts
+Qun'mi
+	Tama
+	Leblanc
+Spiritus
+	Rem
+	Cloud of Darkness
+Volg
+	Segwarides
+	King
+Cid Sophiar
+	Eight
+	Leon
+Elfe
+	Fang
+	Sice
+
+	BRACKET 5:
+Cater
+	Celestia
+	Cid Highwind
+Elgo
+	Lasswell
+	Nero
+Xagor
+	Thief
+	Diana
+Luso
+	Machina
+	Dusk
+Regis
+	Zargabaath
+	Marilith
+Crowe
+	Garland
+	Shelke
+Eald'narche
+	Aranea
+	Cyan
+Ashley
+	Typhon
+	Cor
+Gladiolus
+	Biggs and Wedge
+	Masked Woman
+Queen
+	Celes
+	Haurchefant Greystone
+Snow
+	Paine
+	Aymeric de Borel
+Rosso
+	Gaius
+	Ardyn
+Ovelia
+	Nael
+	Mog
+Cid
+	Dysley
+	King Leo
+Cid Haze
+	Vanille
+	Fusoya
+Jihl
+	Llyud
+	Ysayle Dangoulain
+
+	BRACKET 6:
+Princess Sarah
+	Kytes
+	Azul
+Al-Cid
+	Ceodore
+	Julius
+Fran
+	Jegran
+	Basch
+Sabin
+	Balthier
+	Amarant
+Aphmau
+	Marche
+	Yda
+Leonora
+	Serah
+	Lilisette
+Lion
+	Ultros
+	Palom
+Brandt
+	Belle
+	Iroha
+Prompto
+	Seymour
+	Good King Moggle Mog
+Emina
+	Maria
+	Kimahri
+Seifer
+	Cid Pollendina
+	Wakka
+Tidus
+	Delita
+	Plumed Knight
+Steiner
+	Cu Chaspel
+	Rufus
+Emperor Mateus
+	Vivi
+	Ace
+Gilgamesh
+	Rydia
+	Ultimecia
+Yang
+	Reuben
+	Irvine
+
+	BRACKET 7:
+Fuhito
+	Chocobo
+	Jessie
+Edea
+	Cait Sith
+	Cid Raines
+Sydney
+	Aeris
+	Larsa
+Kefka
+	Beatrix
+	Gestahl
+Tonogiri
+	Alphinaud
+	Leo
+Setzer
+	Kurasame
+	Ramza
+Terra
+	Marcus
+	Krile
+Umaro
+	Dark King
+	Ra Devil
+Materia
+	Linaly
+	Selphie
+Magnolia
+	Zemus
+	Drace
+Tellah
+	Lid
+	Adventurer
+Edward
+	Drace
+	Darklord Craydall
+Kaze
+	Edge
+	Luche
+Ingus
+	Hraesvelgr
+	Yew
+Minfilia
+	Ricard
+	Aria
+Aemo
+	Guy
+	Yeul
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Good King Moggle Mog
+	Leo
+	Leviathan
+Aymeric de Borel
+	John
+	Lightning
+Al-Cid
+	Gaius
+	Libertus
+Mog
+	Julius
+	Zargabaath
+Kadaj
+	Rikku
+	Onion Knight
+Jecht
+	Alma
+	Cosmos
+Tonogiri
+	Fina
+	Sazh
+Desch
+	Squall
+	Reynn
+Cecil
+	Gladiolus
+	Zack
+Lulu
+	Umaro
+	Haurchefant Greystone
+Cid
+	Shadow Lord
+	Ashe
+Ashley
+	Filo
+	Jenova
+Hojo
+	Aki
+	Ultros
+Garland
+	Fuji
+	Yuna
+Lasswell
+	Luneth
+	Xagor
+Croma
+	Materia
+	Sephiroth
+
+	BRACKET 1:
+Mikoto
+	Red XIII
+	Gestahl
+Blank
+	Drace
+	Rude
+Sakura
+	Cyan
+	Masked Woman
+Cloud
+	Brandelis
+	Bergan
+Exdeath
+	Marilith
+	Ghis
+Setzer
+	Aire
+	Freya
+Morrow
+	Edgar
+	Cid nan Garlond
+Arc
+	Terra
+	Gabranth
+Emperor Mateus
+	Luso
+	Ifrit
+Odin
+	Laguna
+	Shirma
+Sara Altney
+	Marshal Cid
+	Legendary Turk
+Warrior
+	Jusqua
+	Shinryu
+Kefka
+	Lumina
+	Wol
+Rinoa
+	Genesis
+	Porom
+Jake
+	Bartz
+	Seven
+Cor
+	Snow
+	Eiko
+
+	BRACKET 2:
+Warrior of Light
+	Vossler
+	Veritas
+Fiona
+	Palom
+	Barret
+Wandering Minstrel
+	King Leo
+	Chaos
+Rubicante
+	Nael
+	Drace
+Rosencrantz
+	Celestia
+	Bergan
+Shara
+	Ceodore
+	Tifa
+Lenna
+	TG Orlandeau
+	Ramuh
+Marlene
+	Chaos
+	Ghis
+Creator
+	Rydia
+	Bergan
+Kimahri
+	Mira
+	Shadow
+Magnolia
+	Tristam
+	Galdes
+Tseng
+	Edea
+	Ultima
+Spiritus
+	Ringabel
+	Relm
+Tonbetty
+	Faris
+	Sarah
+Zell
+	Thancred
+	Agnes
+Tiz
+	Cid Haze
+	Marcus
+
+	BRACKET 3:
+Garland
+	Quistis
+	Dark Lord
+Refia
+	Denys
+	Fusoya
+Monk
+	Rufus
+	Sumo
+Leonora
+	Selphie
+	Illua
+Fran
+	Frimelda
+	Nichol
+Vivi
+	Minwu
+	Guy
+Mewt
+	Balthier
+	Adelle
+Cid Raines
+	Marche
+	Angeal
+Garland
+	Diana
+	Rosso
+Dycedarg
+	Meia
+	Firion
+Cinque
+	Reuben
+	Nacht
+Plumed Knight
+	Rosa
+	Emina
+Nine
+	Krile
+	Adventurer
+Black Mage
+	Vanille
+	Yew
+Yunita
+	Cissnei
+	Tama
+Lid
+	Larsa
+	Golbez
+
+	BRACKET 4:
+Caius
+	Typhon
+	Rain
+Cu Chaspel
+	Kaze
+	Cid Sophiar
+Miyu Kagerohi
+	Paine
+	Sabin
+Guildenstern
+	Caetuna
+	Ra Devil
+Joker
+	Venat
+	Montblanc
+Arecia
+	Queen
+	Kuja
+Azul
+	Cid Pollendina
+	Diva
+Enuo
+	Qun'mi
+	Aemo
+Machina
+	Kurasame
+	Gau
+Meliadoul
+	Y'shtola
+	King
+Bahamut
+	Jack
+	Cid Randell
+Ciaran
+	Eight
+	Hurdy
+Deuce
+	Hraesvelgr
+	Artimecion
+Ace
+	Quina
+	The Deathlord
+Hein
+	Sice
+	Noctis
+Cid Highwind
+	Elgo
+	Benjamin
+
+	BRACKET 5:
+Bergan
+	Dusk
+	Aphmau
+Tiz
+	Edea
+	Ardyn
+Raem
+	Regis
+	Sol
+Darklord Craydall
+	Luche
+	Delita
+Celes
+	Irvine
+	Iris
+Prompto
+	Headmaster Cid
+	Seifer
+Ysayle Dangoulain
+	Zargabaath
+	Agrias
+Apollo
+	Dark King
+	Yda
+Gogo
+	Minfilia
+	Sydney
+Alphinaud
+	Papalymo
+	Brandt
+Ashura
+	Bhunivelze
+	Llyud
+Chocolina
+	Yuri
+	Gilgamesh
+Yeul
+	Isis
+	Yaag
+Ignis
+	Dr. Cid
+	Noel
+Rygdea
+	Tidus
+	Shantotto
+Barbariccia
+	Zemus
+	Dysley
+
+	BRACKET 6:
+Airy
+	Ricard
+	Jihl
+Auron
+	Kytes
+	Princess Sarah
+Lann
+	Aranea
+	Reddas
+Lion
+	Asura
+	Luna
+Cindy
+	Zeid
+	Quickthinx Allthoughts
+Red Mage
+	Mog
+	Iroha
+Hope
+	Prishe
+	Edge
+Yang
+	Arthur
+	Leblanc
+Basch
+	Nero
+	Seymour
+Wakka
+	Serah
+	Galuf
+Sherlotta
+	Ramza
+	Beatrix
+Garnet
+	Ingus
+	Wrieg
+Anne
+	Belle
+	Ultimecia
+Shelke
+	Rem
+	Segwarides
+Tonberry
+	Kain
+	Elfe
+Crowe
+	Echo
+	Lazard
+
+	BRACKET 7:
+Jessie
+	Eald'narche
+	Zidane
+Cait Sith
+	Vaan
+	Mog
+Glauca
+	Fuhito
+	Vincent
+Volg
+	Layle
+	Aeris
+Beowulf
+	Jegran
+	Strago
+Biggs and Wedge
+	Locke
+	Penelo
+Lilisette
+	Linaly
+	Weiss
+Nyx
+	Reno
+	Ursula
+Amarant
+	Tellah
+	Maria
+Edward
+	Callo
+	Alexander
+Aria
+	Nimbus
+	Cater
+Larkeicus
+	Josef
+	Steiner
+Ovelia
+	Fang
+	Leila
+Cloud of Darkness
+	Leon
+	Trey
+Vayne
+	Chocobo
+	Thief
+White Mage
+	Qator
+	Yuffie
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Larsa
+	Cyan
+	Trey
+Magnolia
+	Lightning
+	Mira
+Terra
+	Thief
+	Sazh
+Aranea
+	Paine
+	Jenova
+Wakka
+	Exdeath
+	Typhon
+Larkeicus
+	Ashley
+	Jecht
+Y'shtola
+	Kefka
+	Dr. Cid
+Machina
+	Cloud of Darkness
+	Cloud
+Arc
+	Enuo
+	Darklord Craydall
+Shantotto
+	Lulu
+	Legendary Turk
+Shinryu
+	Adelle
+	Ingus
+Shirma
+	Rygdea
+	Drace
+Beowulf
+	Biggs and Wedge
+	Rydia
+Rubicante
+	Yuna
+	John
+Angeal
+	Porom
+	Tristam
+Regis
+	Golbez
+	Ysayle Dangoulain
+
+	BRACKET 1:
+Vincent
+	Chocobo
+	Caetuna
+Reuben
+	Blank
+	Garnet
+Aki
+	Eiko
+	Vanille
+Tiz
+	Tama
+	Ifrit
+Denys
+	King Leo
+	Wandering Minstrel
+Freya
+	Headmaster Cid
+	Luche
+Zargabaath
+	Segwarides
+	Crowe
+Bergan
+	Nero
+	Ramuh
+Krile
+	Elfe
+	Asura
+Iris
+	Laguna
+	Ashura
+Bahamut
+	Sol
+	Good King Moggle Mog
+Tonberry
+	Isis
+	Drace
+Cater
+	Hurdy
+	Bergan
+Warrior of Light
+	Rinoa
+	Lilisette
+Anne
+	Mog
+	Fuji
+Deuce
+	Guildenstern
+	Yew
+
+	BRACKET 2:
+Cecil
+	Callo
+	Monk
+Miyu Kagerohi
+	Mog
+	Barret
+Mewt
+	Sydney
+	Aeris
+Xagor
+	Emina
+	Leon
+Rosa
+	Arthur
+	Palom
+Tifa
+	Mikoto
+	Cid nan Garlond
+Venat
+	Cosmos
+	Creator
+Sumo
+	Ovelia
+	Azul
+Agnes
+	Yunita
+	Croma
+Shadow
+	Onion Knight
+	Kadaj
+Cid
+	Jihl
+	Frimelda
+Jusqua
+	Cid Randell
+	Amarant
+Brandt
+	Aymeric de Borel
+	Montblanc
+Faris
+	Josef
+	Eald'narche
+Noel
+	Ultima
+	Rain
+Meliadoul
+	Kain
+	Emperor Mateus
+
+	BRACKET 3:
+Edge
+	Sakura
+	Dycedarg
+Mog
+	Refia
+	Delita
+Vossler
+	Jegran
+	Chaos
+Fang
+	Apollo
+	Garland
+Echo
+	Qun'mi
+	Lann
+Ceodore
+	Zack
+	Minwu
+Ignis
+	Meia
+	Locke
+Alexander
+	Benjamin
+	Marcus
+Balthier
+	Volg
+	Brandelis
+Sherlotta
+	Agrias
+	Firion
+Diva
+	Vaan
+	Masked Woman
+Warrior
+	Seifer
+	Plumed Knight
+Jack
+	Belle
+	Yuri
+Alma
+	Illua
+	Black Mage
+Fiona
+	Raem
+	Cid Highwind
+Hraesvelgr
+	Wrieg
+	Rosencrantz
+
+	BRACKET 4:
+Ghis
+	Aemo
+	Aire
+Shadow Lord
+	Steiner
+	Morrow
+Nimbus
+	Veritas
+	Dark King
+Jake
+	Maria
+	Zargabaath
+Luso
+	Lid
+	Hein
+Dark Lord
+	Sarah
+	Fina
+Reno
+	Thancred
+	Kaze
+Leila
+	Tonogiri
+	Julius
+Papalymo
+	Hojo
+	Celestia
+Nacht
+	Ringabel
+	Joker
+Sephiroth
+	Arecia
+	Prompto
+Kurasame
+	Leviathan
+	Lion
+Layle
+	Qator
+	Chaos
+Rosso
+	Marshal Cid
+	Ramza
+Rem
+	Wol
+	Selphie
+Bergan
+	Garland
+	Nine
+
+	BRACKET 5:
+Auron
+	Llyud
+	Eight
+Queen
+	Diana
+	Rikku
+Cindy
+	Lazard
+	Barbariccia
+Cid Sophiar
+	Gladiolus
+	Strago
+Yuffie
+	Vayne
+	Libertus
+Red XIII
+	Zell
+	Quickthinx Allthoughts
+Gaius
+	Marilith
+	Galdes
+Nael
+	Artimecion
+	Rufus
+Yaag
+	Alphinaud
+	Aria
+Yda
+	Leo
+	Luneth
+Zemus
+	Cid Raines
+	Minfilia
+Squall
+	Red Mage
+	Bhunivelze
+Lumina
+	Relm
+	Basch
+Chocolina
+	Weiss
+	Irvine
+Garland
+	Caius
+	Cinque
+Noctis
+	Ultimecia
+	Serah
+
+	BRACKET 6:
+Dysley
+	Marlene
+	Kuja
+Leonora
+	Odin
+	Kytes
+Al-Cid
+	Zidane
+	Edgar
+King
+	Dusk
+	Gabranth
+Reddas
+	Ghis
+	Zeid
+Fusoya
+	Ashe
+	Marche
+Fran
+	TG Orlandeau
+	Bartz
+Luna
+	Tseng
+	Aphmau
+Snow
+	Iroha
+	Nichol
+Penelo
+	Prishe
+	Cu Chaspel
+Setzer
+	Seymour
+	White Mage
+Cor
+	Gau
+	Kimahri
+Tidus
+	Cissnei
+	Sabin
+Quina
+	Vivi
+	Ardyn
+Bergan
+	Leblanc
+	Shelke
+Fuhito
+	Airy
+	Hope
+
+	BRACKET 7:
+Ace
+	Genesis
+	Umaro
+Jessie
+	Glauca
+	Ultros
+Materia
+	Tonbetty
+	Gestahl
+Celes
+	The Deathlord
+	Shara
+Cid Haze
+	Rude
+	Ra Devil
+Linaly
+	Lenna
+	Ciaran
+Gilgamesh
+	Yeul
+	Tiz
+Edea
+	Reynn
+	Ursula
+Seven
+	Galuf
+	Cid Pollendina
+Tellah
+	Filo
+	Edea
+Sice
+	Edward
+	Lasswell
+Haurchefant Greystone
+	Yang
+	Gogo
+Quistis
+	Desch
+	Spiritus
+Sara Altney
+	Ricard
+	Cait Sith
+Beatrix
+	Nyx
+	Guy
+Adventurer
+	Elgo
+	Princess Sarah
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Alexander
+	Krile
+	Rikku
+Lightning
+	Deuce
+	Crowe
+Rosencrantz
+	Rude
+	Ashe
+Dusk
+	Leviathan
+	Garland
+Lumina
+	Jihl
+	Vayne
+Jecht
+	Tristam
+	Rain
+Ashura
+	Thancred
+	Ringabel
+Auron
+	Cid Haze
+	Sakura
+Qun'mi
+	Squall
+	Red XIII
+Lulu
+	Darklord Craydall
+	Golbez
+Zemus
+	Luna
+	Luneth
+Jenova
+	Chocolina
+	Vossler
+Sephiroth
+	Beatrix
+	Celestia
+Josef
+	Yuna
+	Reno
+Glauca
+	Cyan
+	Regis
+Onion Knight
+	Exdeath
+	Sarah
+
+	BRACKET 1:
+Callo
+	Lion
+	Barbariccia
+Jegran
+	Hojo
+	Blank
+Noctis
+	Ursula
+	Shantotto
+Marcus
+	Rosa
+	King Leo
+Kuja
+	Cloud of Darkness
+	Snow
+Ingus
+	Freya
+	Azul
+Bergan
+	Sara Altney
+	Meia
+Rem
+	Serah
+	Arc
+Emperor Mateus
+	Umaro
+	Lann
+Cissnei
+	Leonora
+	Laguna
+Cosmos
+	Rufus
+	Volg
+Shelke
+	Ifrit
+	Garland
+Irvine
+	Warrior
+	Garland
+Rinoa
+	Yang
+	Cinque
+Shinryu
+	Edea
+	Typhon
+Libertus
+	Mira
+	Raem
+
+	BRACKET 2:
+Y'shtola
+	Leila
+	Aranea
+Amarant
+	Barret
+	TG Orlandeau
+Bahamut
+	Balthier
+	Chocobo
+Tseng
+	Marche
+	Papalymo
+Queen
+	Ramza
+	Zeid
+Guy
+	Tifa
+	Rosso
+Porom
+	Cid Raines
+	Noel
+Cid nan Garlond
+	Marilith
+	Delita
+Ghis
+	Tidus
+	Mog
+Fusoya
+	Shadow
+	Eald'narche
+Galdes
+	Bergan
+	Echo
+Caius
+	Bergan
+	Wol
+Edge
+	Odin
+	Arecia
+Faris
+	Seven
+	Paine
+Joker
+	Zargabaath
+	Leblanc
+Strago
+	Rydia
+	Drace
+
+	BRACKET 3:
+Bergan
+	Setzer
+	Adventurer
+Refia
+	Maria
+	Luche
+Trey
+	Larkeicus
+	Denys
+Anne
+	Jake
+	Tiz
+Materia
+	Hurdy
+	Magnolia
+Brandelis
+	Minwu
+	Benjamin
+Nero
+	Ramuh
+	Yew
+Edea
+	Al-Cid
+	Chaos
+White Mage
+	John
+	Machina
+Vincent
+	Firion
+	Layle
+Ovelia
+	Cater
+	Sydney
+Bartz
+	Monk
+	Xagor
+Apollo
+	Legendary Turk
+	Mikoto
+Asura
+	Black Mage
+	Relm
+Dark Lord
+	Cid Highwind
+	Prompto
+Penelo
+	Ysayle Dangoulain
+	Julius
+
+	BRACKET 4:
+Ignis
+	Gestahl
+	Fuji
+Sumo
+	Jusqua
+	Fiona
+Adelle
+	Artimecion
+	Miyu Kagerohi
+Garnet
+	Mewt
+	Ultros
+Llyud
+	Cid Randell
+	Eiko
+Elgo
+	Tonbetty
+	Ultima
+Segwarides
+	Gaius
+	Agrias
+Mog
+	Marshal Cid
+	Sazh
+Dark King
+	Kimahri
+	Ra Devil
+Brandt
+	Airy
+	Reuben
+Plumed Knight
+	Cid Pollendina
+	Gabranth
+Belle
+	Caetuna
+	Illua
+Yuri
+	Red Mage
+	Tonogiri
+Ciaran
+	Zargabaath
+	Lazard
+Reddas
+	Locke
+	Yunita
+Zack
+	Wrieg
+	Hope
+
+	BRACKET 5:
+Sherlotta
+	Aemo
+	Luso
+Aki
+	Morrow
+	Steiner
+Cindy
+	Nichol
+	Marlene
+Angeal
+	Zidane
+	Lasswell
+Beowulf
+	Alma
+	Tiz
+Frimelda
+	Leon
+	Nimbus
+Minfilia
+	Tonberry
+	Jessie
+Quistis
+	Emina
+	Jack
+Nine
+	Diva
+	Agnes
+Warrior of Light
+	Eight
+	Ultimecia
+Hein
+	Sice
+	Alphinaud
+Ace
+	Arthur
+	Reynn
+Shara
+	Mog
+	Diana
+Selphie
+	Celes
+	Ardyn
+Larsa
+	Isis
+	Cid Sophiar
+Nyx
+	Zell
+	Shadow Lord
+
+	BRACKET 6:
+Genesis
+	Fina
+	Cor
+Ashley
+	Haurchefant Greystone
+	Aria
+Aymeric de Borel
+	Seifer
+	Ghis
+King
+	Sol
+	Hraesvelgr
+Biggs and Wedge
+	Aire
+	Good King Moggle Mog
+Bhunivelze
+	Kaze
+	Quickthinx Allthoughts
+Cu Chaspel
+	Basch
+	Yeul
+Rygdea
+	Wandering Minstrel
+	Headmaster Cid
+Fang
+	Veritas
+	Dysley
+Desch
+	Cait Sith
+	Yaag
+Cecil
+	Vanille
+	Montblanc
+Gogo
+	Filo
+	Guildenstern
+The Deathlord
+	Fran
+	Kadaj
+Quina
+	Kefka
+	Vaan
+Yda
+	Meliadoul
+	Lilisette
+Gau
+	Dycedarg
+	Iroha
+
+	BRACKET 7:
+Cloud
+	Iris
+	Seymour
+Lenna
+	Gladiolus
+	Wakka
+Vivi
+	Fuhito
+	Nael
+Galuf
+	Elfe
+	Kurasame
+Dr. Cid
+	Nacht
+	Leo
+Kytes
+	Chaos
+	Edgar
+Spiritus
+	Terra
+	Drace
+Linaly
+	Enuo
+	Masked Woman
+Lid
+	Croma
+	Gilgamesh
+Venat
+	Ceodore
+	Creator
+Palom
+	Aphmau
+	Cid
+Shirma
+	Tellah
+	Prishe
+Tama
+	Edward
+	Rubicante
+Qator
+	Aeris
+	Kain
+Sabin
+	Princess Sarah
+	Ricard
+Thief
+	Weiss
+	Yuffie
+
+
+	BRACKETS:
+
+
+	BRACKET 0:
+Emperor Mateus
+	Artimecion
+	Cait Sith
+Quickthinx Allthoughts
+	Lightning
+	Garland
+Mikoto
+	Cid Randell
+	Ursula
+Vincent
+	Nine
+	Leviathan
+Fang
+	Monk
+	Sephiroth
+Jecht
+	Cinque
+	Sherlotta
+Llyud
+	Hope
+	Cissnei
+Larsa
+	Delita
+	Celes
+Eight
+	Auron
+	Marcus
+Lulu
+	Fiona
+	Alma
+Cindy
+	Tonbetty
+	Gau
+Isis
+	Tonberry
+	Quistis
+Zack
+	Enuo
+	Palom
+Yda
+	Zidane
+	Yuna
+Sol
+	Tellah
+	Sice
+Edea
+	Hojo
+	Golbez
+
+	BRACKET 1:
+Kytes
+	Bergan
+	Red XIII
+Arecia
+	Typhon
+	Blank
+Odin
+	Rubicante
+	Dr. Cid
+Elgo
+	Cloud
+	Venat
+Mog
+	Marilith
+	Rain
+Azul
+	Freya
+	Qator
+Wandering Minstrel
+	Beowulf
+	Tama
+Exdeath
+	Cater
+	King Leo
+Sazh
+	Prompto
+	Barbariccia
+Agnes
+	Laguna
+	Onion Knight
+Fina
+	Drace
+	Bahamut
+Elfe
+	Rosa
+	Garland
+Spiritus
+	Sabin
+	Rydia
+Snow
+	Rem
+	Rinoa
+Asura
+	Marche
+	Mog
+Shelke
+	Warrior
+	Montblanc
+
+	BRACKET 2:
+Ghis
+	Jegran
+	Porom
+Aranea
+	Relm
+	Barret
+Tseng
+	Zargabaath
+	Diana
+Drace
+	Papalymo
+	Anne
+Edea
+	Leo
+	Celestia
+Queen
+	Tifa
+	Desch
+Guildenstern
+	Airy
+	Lenna
+Ashley
+	Yang
+	Ghis
+Seven
+	Arthur
+	Eald'narche
+Hein
+	Dark King
+	Shadow
+Setzer
+	Apollo
+	Joker
+Callo
+	Aire
+	Creator
+Darklord Craydall
+	Fuji
+	Edward
+Sumo
+	John
+	Faris
+Luso
+	Edgar
+	Bergan
+Zemus
+	Shara
+	Thief
+
+	BRACKET 3:
+Iris
+	Krile
+	Ultima
+Ultros
+	Brandt
+	Refia
+Fusoya
+	Meliadoul
+	Xagor
+Galuf
+	Seifer
+	TG Orlandeau
+Agrias
+	Vossler
+	Weiss
+Yew
+	Minwu
+	Noctis
+Sarah
+	Rygdea
+	Tiz
+Chaos
+	Prishe
+	Minfilia
+Mog
+	Brandelis
+	Y'shtola
+Umaro
+	Firion
+	Strago
+Segwarides
+	Garland
+	Cosmos
+Meia
+	Ifrit
+	Edge
+Reuben
+	Reynn
+	Cid Pollendina
+Bartz
+	Kuja
+	Black Mage
+Galdes
+	Ringabel
+	Tristam
+Masked Woman
+	Jenova
+	Vivi
+
+	BRACKET 4:
+Yunita
+	Plumed Knight
+	Zell
+Serah
+	Sara Altney
+	Raem
+Sakura
+	Ciaran
+	Ashe
+White Mage
+	Penelo
+	Aemo
+Rosencrantz
+	Cid Haze
+	Morrow
+Good King Moggle Mog
+	Adventurer
+	Veritas
+Sydney
+	Jake
+	Tiz
+Nichol
+	Arc
+	Mewt
+Jihl
+	Julius
+	Lid
+Genesis
+	Lasswell
+	Aeris
+Kaze
+	Alphinaud
+	Vayne
+Jessie
+	Beatrix
+	Materia
+Deuce
+	Nero
+	Miyu Kagerohi
+Nimbus
+	Leblanc
+	Dycedarg
+Iroha
+	Marshal Cid
+	Noel
+Cecil
+	King
+	Kurasame
+
+	BRACKET 5:
+Trey
+	Magnolia
+	Adelle
+Lion
+	Benjamin
+	Dusk
+Ardyn
+	Tonogiri
+	Gogo
+Terra
+	Ingus
+	Cid Sophiar
+Regis
+	Crowe
+	Zargabaath
+Rufus
+	Rosso
+	Glauca
+Nyx
+	Jack
+	Quina
+Yuri
+	Cloud of Darkness
+	Cor
+Wrieg
+	Libertus
+	Luna
+Jusqua
+	Yuffie
+	Gladiolus
+Echo
+	Ignis
+	Rude
+Leon
+	Ysayle Dangoulain
+	Shirma
+Haurchefant Greystone
+	Ultimecia
+	Qun'mi
+Alexander
+	Gaius
+	Denys
+Nacht
+	Chocolina
+	Hraesvelgr
+Dark Lord
+	Selphie
+	Nael
+
+	BRACKET 6:
+Cid nan Garlond
+	Larkeicus
+	Bhunivelze
+Bergan
+	Biggs and Wedge
+	Lumina
+Ashura
+	Yeul
+	Mira
+Diva
+	Paine
+	Dysley
+Belle
+	Yaag
+	Wakka
+Eiko
+	Frimelda
+	Vanille
+Cu Chaspel
+	Machina
+	Filo
+Al-Cid
+	Gilgamesh
+	Shadow Lord
+Gabranth
+	Hurdy
+	Luche
+Bergan
+	The Deathlord
+	Reddas
+Basch
+	Ricard
+	Layle
+Aki
+	Red Mage
+	Fran
+Kimahri
+	Volg
+	Balthier
+Headmaster Cid
+	Vaan
+	Luneth
+Lilisette
+	Rikku
+	Aymeric de Borel
+Cid Raines
+	Illua
+	Zeid
+
+	BRACKET 7:
+Lann
+	Seymour
+	Shantotto
+Chaos
+	Amarant
+	Emina
+Marlene
+	Garnet
+	Kadaj
+Fuhito
+	Caius
+	Ace
+Ceodore
+	Aphmau
+	Legendary Turk
+Ramuh
+	Steiner
+	Lazard
+Princess Sarah
+	Gestahl
+	Wol
+Locke
+	Squall
+	Kefka
+Cyan
+	Caetuna
+	Ra Devil
+Thancred
+	Tidus
+	Linaly
+Leonora
+	Ramza
+	Angeal
+Ovelia
+	Reno
+	Aria
+Cid Highwind
+	Josef
+	Irvine
+Shinryu
+	Leila
+	Kain
+Croma
+	Guy
+	Chocobo
+Maria
+	Cid
+	Warrior of Light
+
+
